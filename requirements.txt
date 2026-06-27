@@ -3,7 +3,7 @@ uvicorn[standard]==0.49.0
 python-dotenv==1.2.2
 pydantic-settings==2.14.1
 groq==1.4.0
-fastembed==0.4.2
+fastembed==0.8.0
 faiss-cpu==1.14.2
 langchain-text-splitters==1.1.2
 langchain-core==1.4.1
