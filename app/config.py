@@ -8,6 +8,7 @@ from typing import List, Optional
 
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
+from app.default_prompt import DEFAULT_SYSTEM_PROMPT
 
 ALLOWED_MODELS: frozenset[str] = frozenset(
     {
@@ -33,16 +34,16 @@ class Settings(BaseSettings):
 
     # --- Required ---
     groq_api_key: str
-    agent_name: str
 
     # --- Optional: logging ---
     log_level: str = "INFO"
 
     # --- Optional: agent behaviour ---
+    agent_name: str = "Primo"
     groq_model: str = "llama-3.3-70b-versatile"
-    agent_personality: Optional[str] = None
-    agent_tone: Optional[str] = None
-    agent_system_prompt: Optional[str] = None
+    agent_personality: Optional[str] = "professional, warm, consultative, strategic, caring"
+    agent_tone: Optional[str] = "calm, clear, and human"
+    agent_system_prompt: Optional[str] = DEFAULT_SYSTEM_PROMPT
 
     # --- Optional: CORS ---
     # Comma-separated or JSON array of allowed origins. Use * for all (dev only).
@@ -83,26 +84,6 @@ class Settings(BaseSettings):
         return [o.strip() for o in v.split(",") if o.strip()]
 
     # --- Validators ---
-
-    @field_validator("agent_name")
-    @classmethod
-    def name_must_not_be_empty(cls, v: str) -> str:
-        if not v or not v.strip():
-            raise ValueError(
-                "AGENT_NAME is required and must not be empty. "
-                "Set a non-empty value in your .env file."
-            )
-        return v
-
-    @field_validator("agent_system_prompt")
-    @classmethod
-    def system_prompt_length(cls, v: Optional[str]) -> Optional[str]:
-        if v and len(v) > 2000:
-            raise ValueError(
-                f"AGENT_SYSTEM_PROMPT exceeds the 2000-character limit "
-                f"(got {len(v)} characters)."
-            )
-        return v
 
     @field_validator("groq_model")
     @classmethod
