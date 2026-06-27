@@ -1,0 +1,26 @@
+# Environment — never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# FAISS index — regenerated from knowledge/ on startup
+data/faiss.index
+data/faiss_id_map.json
+data/document_store.json
+data/chunk_store.json
+
+# Knowledge base images — converted to .txt, too large for git (4.4 GB)
+knowledge/**/*.jpg
+knowledge/**/*.jpeg
+knowledge/**/*.JPG
+knowledge/**/*.JPEG
+knowledge/**/*.png
+knowledge/**/*.PNG
+knowledge/**/*.webp

@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "embeddable-ai-chatbot-backend"
+version = "0.1.0"
+description = "FastAPI backend for the embeddable AI chatbot"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.111.0",
+    "uvicorn[standard]>=0.29.0",
+    "pydantic-settings>=2.2.1",
+    "python-dotenv>=1.0.1",
+    "groq>=0.9.0",
+    "faiss-cpu>=1.8.0",
+    "sentence-transformers>=3.0.0",
+    "langchain-text-splitters>=0.2.0",
+    "pdfminer.six>=20231228",
+    "python-multipart>=0.0.9",
+    "pytest>=8.2.0",
+    "hypothesis>=6.100.0",
+    "pytest-asyncio>=0.23.0",
+    "httpx>=0.27.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.hypothesis]
+max_examples = 100
+deriving = false
