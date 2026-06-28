@@ -1,5 +1,5 @@
 """
-app/services/llm_service.py — Groq async streaming client wrapper
+app/services/llm_service.py — Groq async streaming client with multi-key rotation
 """
 from __future__ import annotations
 
@@ -14,23 +14,27 @@ from app.models.session import Message
 
 logger = logging.getLogger(__name__)
 
+BUSY_MESSAGE = (
+    "Primo is a bit busy right now! "
+    "Please resend your message in a few seconds."
+)
+
 
 async def stream_completion(
     messages: list[Union[Message, dict]],
 ) -> AsyncGenerator[str, None]:
     """
-    Stream LLM completion from Groq.
+    Stream LLM completion from Groq with automatic key rotation on rate limit.
+
+    Tries each available API key in order. If one is rate-limited (429),
+    silently switches to the next key. If all keys are exhausted, yields
+    a friendly retry message instead of a hard error.
 
     Yields SSE-formatted strings:
       - ``data: {"token": "..."}\\n\\n``  for each non-empty content chunk
       - ``data: {"done": true}\\n\\n``     on successful completion
-      - ``data: {"error": "stream_interrupted"}\\n\\n``  on any exception (terminal)
-
-    Args:
-        messages: List of Message pydantic objects or plain dicts with
-                  ``role`` and ``content`` keys.
+      - ``data: {"error": "stream_interrupted"}\\n\\n``  on non-rate-limit errors
     """
-    # Normalise to plain dicts for the Groq SDK
     messages_dicts: list[dict] = []
     for m in messages:
         if isinstance(m, dict):
@@ -38,20 +42,36 @@ async def stream_completion(
         else:
             messages_dicts.append({"role": m.role, "content": m.content})
 
-    try:
-        client = groq.AsyncGroq(api_key=settings.groq_api_key)
-        stream = await client.chat.completions.create(
-            model=settings.groq_model,
-            messages=messages_dicts,  # type: ignore[arg-type]
-            stream=True,
-        )
-        async for chunk in stream:
-            content = chunk.choices[0].delta.content
-            if content:
-                yield f"data: {json.dumps({'token': content})}\n\n"
+    api_keys = settings.groq_api_keys
+    last_attempt = len(api_keys) - 1
 
-        yield f"data: {json.dumps({'done': True})}\n\n"
+    for attempt, api_key in enumerate(api_keys):
+        try:
+            client = groq.AsyncGroq(api_key=api_key)
+            stream = await client.chat.completions.create(
+                model=settings.groq_model,
+                messages=messages_dicts,  # type: ignore[arg-type]
+                stream=True,
+            )
+            async for chunk in stream:
+                content = chunk.choices[0].delta.content
+                if content:
+                    yield f"data: {json.dumps({'token': content})}\n\n"
 
-    except Exception as exc:
-        logger.exception("Groq stream_completion failed.", extra={"error": str(exc)})
-        yield f"data: {json.dumps({'error': 'stream_interrupted'})}\n\n"
+            yield f"data: {json.dumps({'done': True})}\n\n"
+            return
+
+        except groq.RateLimitError:
+            if attempt < last_attempt:
+                logger.warning("Groq key %d/%d rate limited — switching to next key.", attempt + 1, len(api_keys))
+                continue
+            # All keys exhausted — show friendly message as a normal Primo reply
+            logger.warning("All %d Groq keys rate limited. Sending busy message.", len(api_keys))
+            yield f"data: {json.dumps({'token': BUSY_MESSAGE})}\n\n"
+            yield f"data: {json.dumps({'done': True})}\n\n"
+            return
+
+        except Exception as exc:
+            logger.exception("Groq stream_completion failed.", extra={"error": str(exc)})
+            yield f"data: {json.dumps({'error': 'stream_interrupted'})}\n\n"
+            return

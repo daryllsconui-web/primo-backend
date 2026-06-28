@@ -35,6 +35,19 @@ class Settings(BaseSettings):
     # --- Required ---
     groq_api_key: str
 
+    # --- Optional: additional Groq API keys for burst rotation ---
+    groq_api_key_2: Optional[str] = None
+    groq_api_key_3: Optional[str] = None
+
+    @property
+    def groq_api_keys(self) -> list[str]:
+        keys = [self.groq_api_key]
+        if self.groq_api_key_2:
+            keys.append(self.groq_api_key_2)
+        if self.groq_api_key_3:
+            keys.append(self.groq_api_key_3)
+        return keys
+
     # --- Optional: logging ---
     log_level: str = "INFO"
 
