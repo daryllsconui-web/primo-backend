@@ -58,11 +58,12 @@ async def _stream_gemini(
 
     try:
         client = genai.Client(api_key=settings.gemini_api_key)
-        async for chunk in client.aio.models.generate_content_stream(
+        stream = await client.aio.models.generate_content_stream(
             model=settings.gemini_model,
             contents=contents,
             config=config,
-        ):
+        )
+        async for chunk in stream:
             if chunk.text:
                 yield f"data: {json.dumps({'token': chunk.text})}\n\n"
 
