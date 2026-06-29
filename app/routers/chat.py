@@ -141,7 +141,7 @@ async def _chat_stream(
 
 
 @router.post("/chat")
-@limiter.limit("20/minute")
+# @limiter.limit("20/minute")  # temporarily disabled for load testing
 async def chat(body: ChatRequest, request: Request) -> StreamingResponse:
     """
     POST /chat
