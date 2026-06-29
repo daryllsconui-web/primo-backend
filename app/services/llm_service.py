@@ -15,7 +15,7 @@ from app.models.session import Message
 logger = logging.getLogger(__name__)
 
 BUSY_MESSAGE = (
-    "Primo is a bit busy right now! "
+    "Sai is a bit busy right now! "
     "Please resend your message in a few seconds."
 )
 

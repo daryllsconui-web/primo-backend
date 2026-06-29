@@ -55,7 +55,7 @@ class Settings(BaseSettings):
     log_level: str = "INFO"
 
     # --- Optional: agent behaviour ---
-    agent_name: str = "Primo"
+    agent_name: str = "Sai"
     groq_model: str = "llama-3.1-8b-instant"
     agent_personality: Optional[str] = "professional, warm, consultative, strategic, caring"
     agent_tone: Optional[str] = "calm, clear, and human"
