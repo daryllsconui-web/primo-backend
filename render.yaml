@@ -5,14 +5,23 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
+      # ── Active provider ──────────────────────────────
+      - key: LLM_PROVIDER
+        value: gemini
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: GEMINI_API_KEY
+        sync: false
+      # ── Groq backup (set LLM_PROVIDER=groq to switch back) ──
       - key: GROQ_API_KEY
         sync: false
+      - key: GROQ_MODEL
+        value: llama-3.1-8b-instant
+      # ── Shared settings ──────────────────────────────
       - key: CORS_ORIGINS_STR
         value: "*"
       - key: AGENT_NAME
         value: Sai
-      - key: GROQ_MODEL
-        value: llama-3.1-8b-instant
       - key: SIMILARITY_THRESHOLD
         value: "0.70"
       - key: TOP_K

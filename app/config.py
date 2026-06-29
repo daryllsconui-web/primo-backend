@@ -40,6 +40,13 @@ class Settings(BaseSettings):
     groq_api_key_3: Optional[str] = None
     groq_api_key_4: Optional[str] = None
 
+    # --- LLM provider switch ("gemini" or "groq") ---
+    llm_provider: str = "gemini"
+
+    # --- Gemini settings ---
+    gemini_api_key: Optional[str] = None
+    gemini_model: str = "gemini-2.5-flash"
+
     @property
     def groq_api_keys(self) -> list[str]:
         keys = [self.groq_api_key]
