@@ -66,18 +66,24 @@ async def _stream_gemini(
         async for chunk in stream:
             if chunk.text:
                 yield f"data: {json.dumps({'token': chunk.text})}\n\n"
-
         yield f"data: {json.dumps({'done': True})}\n\n"
 
     except Exception as exc:
-        status = getattr(getattr(exc, "status_code", None), "value", None) or getattr(exc, "status_code", None)
-        if status == 429:
-            logger.warning("Gemini rate limited. Sending busy message.")
+        # Google ClientError embeds the code in the string — check all known forms
+        exc_str = str(exc)
+        is_rate_limited = (
+            "429" in exc_str
+            or "RESOURCE_EXHAUSTED" in exc_str
+            or getattr(exc, "status_code", None) == 429
+            or getattr(getattr(exc, "status_code", None), "value", None) == 429
+        )
+        if is_rate_limited:
+            logger.warning("Gemini rate limited.")
             yield f"data: {json.dumps({'token': BUSY_MESSAGE})}\n\n"
-            yield f"data: {json.dumps({'done': True})}\n\n"
         else:
             logger.exception("Gemini stream_completion failed.")
             yield f"data: {json.dumps({'error': 'stream_interrupted'})}\n\n"
+        yield f"data: {json.dumps({'done': True})}\n\n"
 
 
 # ── Groq (backup — re-enable when Groq Developer tier is available) ───────────
@@ -120,6 +126,7 @@ async def _stream_groq(
         except Exception as exc:
             logger.exception("Groq stream_completion failed.", extra={"error": str(exc)})
             yield f"data: {json.dumps({'error': 'stream_interrupted'})}\n\n"
+            yield f"data: {json.dumps({'done': True})}\n\n"
             return
 
 
