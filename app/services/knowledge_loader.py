@@ -32,11 +32,9 @@ def _extract_text(file_path: Path) -> str | None:
     try:
         if ext in (".txt", ".md"):
             return file_path.read_text(encoding="utf-8", errors="ignore")
-
-
-except Exception as e:
+    except Exception as e:
         logger.error("Failed to extract text from %s: %s", file_path.name, e)
-        return None
+    return None
 
 
 def ingest_knowledge_folder(app_state, knowledge_dir: Path | str) -> int:
