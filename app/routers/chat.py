@@ -122,10 +122,12 @@ async def chat(body: ChatRequest, request: Request) -> StreamingResponse:
     Raises:
         HTTPException 404: session_id not found
     """
+    # Auto-create session if not found (handles server restarts/redeploys)
     try:
         session_service.get_session(request.app.state.session_store, body.session_id)
     except KeyError:
-        raise HTTPException(status_code=404, detail="session_not_found")
+        from app.models.session import Session
+        request.app.state.session_store[body.session_id] = Session(session_id=body.session_id)
 
     return StreamingResponse(
         _chat_stream(request, body.session_id, body.message, body.history),
