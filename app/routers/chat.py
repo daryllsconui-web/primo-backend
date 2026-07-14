@@ -68,9 +68,16 @@ async def _chat_stream(
     """
     app_state = request.app.state
 
-    # RAG retrieval
+    # RAG retrieval — enrich query with recent history so follow-up messages
+    # like "tell me more about it" resolve correctly against the knowledge base
+    recent_context = " ".join(
+        m["content"] for m in history[-4:]
+        if m.get("content")
+    )
+    rag_query = f"{recent_context} {message}".strip() if recent_context else message
+
     chunks = rag_service.retrieve(
-        query=message,
+        query=rag_query,
         app_state=app_state,
         top_k=settings.top_k,
         threshold=settings.similarity_threshold,
