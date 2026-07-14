@@ -22,7 +22,7 @@ from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
-SUPPORTED_EXTENSIONS = {".txt", ".md", ".pdf", ".docx", ".png", ".jpg", ".jpeg", ".webp"}
+SUPPORTED_EXTENSIONS = {".txt", ".md"}
 
 
 def _extract_text(file_path: Path) -> str | None:
@@ -33,35 +33,8 @@ def _extract_text(file_path: Path) -> str | None:
         if ext in (".txt", ".md"):
             return file_path.read_text(encoding="utf-8", errors="ignore")
 
-        elif ext == ".pdf":
-            from pdfminer.high_level import extract_text  # type: ignore
-            return extract_text(str(file_path))
 
-        elif ext == ".docx":
-            from docx import Document  # type: ignore
-            doc = Document(str(file_path))
-            return "\n".join(p.text for p in doc.paragraphs if p.text.strip())
-
-        elif ext in (".png", ".jpg", ".jpeg", ".webp"):
-            try:
-                import sys
-                import pytesseract  # type: ignore
-                from PIL import Image  # type: ignore
-                if sys.platform == "win32":
-                    pytesseract.pytesseract.tesseract_cmd = (
-                        r"C:\Users\JanDaryllCon-Ui\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
-                    )
-                img = Image.open(str(file_path))
-                text = pytesseract.image_to_string(img)
-                return text if text.strip() else None
-            except Exception as e:
-                logger.warning(
-                    "Image OCR skipped for %s: %s",
-                    file_path.name, e
-                )
-                return None
-
-    except Exception as e:
+except Exception as e:
         logger.error("Failed to extract text from %s: %s", file_path.name, e)
         return None
 
