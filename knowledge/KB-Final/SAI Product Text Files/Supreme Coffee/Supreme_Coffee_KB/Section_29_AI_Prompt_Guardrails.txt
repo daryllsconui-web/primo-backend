@@ -1,0 +1,19 @@
+SUPREMACY INTERNATIONAL
+ENTERPRISE KNOWLEDGE BASE
+
+PRODUCT: SUPREME ALKALINE COFFEE MIX (Premium Blend)
+
+SECTION 29 – AI Prompt Guardrails
+
+Purpose
+This section is part of the enterprise knowledge base used by Supremacy AI (SAI).
+
+Core Knowledge
+• Product category: Food Supplement Instant Coffee Mix
+• Positioning: Premium alkaline coffee with selected botanical ingredients.
+• Use FDA/Meta compliant language only.
+• Approved phrases: helps support, helps maintain, may contribute to, complements a healthy lifestyle.
+• Never claim to diagnose, treat, cure, or prevent disease.
+
+Developer Notes
+Populate this section with structured data, FAQs, conversation examples, scientific references, and retrieval keywords as the knowledge base expands.

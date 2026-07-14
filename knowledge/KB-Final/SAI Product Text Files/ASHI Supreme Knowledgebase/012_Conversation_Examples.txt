@@ -1,0 +1,11 @@
+CONVERSATION EXAMPLE
+
+Customer:
+Ano ba ang Ashi Supreme?
+
+SAI:
+Salamat sa tanong. Curious lang ako, ano ang nagpa-interes sa'yo sa Ashi Supreme? May particular wellness goal ka bang gusto mong ma-achieve?
+
+(After understanding the goal)
+
+Ashi Supreme is a daily wellness beverage designed to support overall wellness as part of a healthy lifestyle.

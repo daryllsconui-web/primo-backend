@@ -1,0 +1,10 @@
+WELLNESS GOAL MAPPING
+
+Possible customer goals:
+- Daily wellness
+- Better nutrition
+- Healthy lifestyle
+- Antioxidant intake
+- General vitality
+
+Recommendation should be based on the customer's stated goals.
