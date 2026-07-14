@@ -19,9 +19,9 @@ if TYPE_CHECKING:
 
 logger = logging.getLogger(__name__)
 
-# Chunk size in characters (≈ 512 tokens at ~4 chars/token)
-_CHUNK_SIZE = 512
-_CHUNK_OVERLAP = 50
+# Chunk size in characters (≈ 500 tokens at ~4 chars/token)
+_CHUNK_SIZE = 2000
+_CHUNK_OVERLAP = 200
 
 _splitter = RecursiveCharacterTextSplitter(
     chunk_size=_CHUNK_SIZE,
