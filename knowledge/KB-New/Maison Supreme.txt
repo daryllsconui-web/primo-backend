@@ -1,170 +1,46 @@
 SUPREMACY INTERNATIONAL
 SAI AI AGENT — KNOWLEDGE BASE TEMPLATE
-
-
 ────────────────────────────────────────────────────────────────────────────────
   SECTION 0 — DOCUMENT INFORMATION
-
-
-
-
-
-
-
   SECTION 1 — PRODUCT IDENTITY
-
-
-
-
-
-
-
-
   SECTION 2 — VISUAL APPEARANCE
-
-
-
-
-
-
-
-
-
-
-
   SECTION 3 — KEY INGREDIENTS
-
-
-
-
   SECTION 4 — PRODUCT BENEFITS
-
-
-
-
-
   SECTION 5 — HOW TO USE
-
-
-
-
-
-
-
-
   SECTION 6 — PRICING & AVAILABILITY
-
-
-
  b
-
   SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
-
 ▌ Q&A Pair 1
-
 ▌ Q&A Pair 2
-
 ▌ Q&A Pair 3
-
 ▌ Q&A Pair 4
-
 ▌ Q&A Pair 5
-
-
 ▌ Q&A Pair 6
-
 ▌ Q&A Pair 7
-
 ▌ Q&A Pair 8
-
 ▌ Q&A Pair 9
-
 ▌ Q&A Pair 10
-
 SECTION 8 — OBJECTIONS & SAI'S RESPONSES
 ▌ Objection: "Ang mahal yata ng ₱1,390."
-
 ▌ Objection: "Hindi ba ito inspired fragrance lang?"
-
 ▌ Objection: "Tatagal ba talaga ang amoy?"
-
 ▌ Objection: "Sensitive balat ko."
-
 ▌ Objection: "Hindi ko alam kung anong variant ang bagay sa akin."
-
 ▌ Objection: "Hindi ko pa kilala ang Maison Supreme."
-
-
 ▌ Objection: "Mas gusto ko yung branded perfumes."
-
-
 ▌ Objection: "Worth it ba talaga?"
-
 ▌ Objection:  "Baka sobrang tapang."
-
-
-
 ▌ Objection: "Hindi ako mahilig sa pabango."
-
- 
-
   SECTION 9 — WHAT SAI MUST NOT SAY ABOUT THIS PRODUCT
-
-
-
-
   SECTION 10 — SEARCH KEYWORDS
-
-
-
-
-
-
-
-
-
   SECTION 11 — CONVERSATION EXAMPLES
-
 ▌ Example 1 — Choosing a Signature Fragrance
-
-
-
-
 ▌ Example 2 - Looking for a Gift
-
 ▌ Example 3 — Budget Concern
-
 ▌ Example 4  — First-Time User
-
 ▌ Example 5 — Comparing Perfume Collections
-
   SECTION 12 — ADDITIONAL NOTES & CONTEXT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SECTION 13 — MAISON SUPREME COLLECTIONS & VARIANTS
-
 ────────────────────────────────────────────────────────────────────────────────
 Supremacy International — Sai AI Knowledge Base Template  |  For internal use only. Prepared by Louie Garcia
 MAISON EAU DA PARFUM

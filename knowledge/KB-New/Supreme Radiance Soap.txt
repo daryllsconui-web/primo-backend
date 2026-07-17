@@ -1,151 +1,60 @@
 SUPREMACY INTERNATIONAL
 SAI AI AGENT — KNOWLEDGE BASE TEMPLATE
 Use one copy of this template per product. Fill in all sections completely.
-
-
 ────────────────────────────────────────────────────────────────────────────────
   SECTION 0 — DOCUMENT INFORMATION
 ⚠  Complete this section before filling in anything else.
-
-
-
-
-
-
   SECTION 1 — PRODUCT IDENTITY
 💡  Sai uses this section to confirm product names and avoid inventing products that don't exist.
-
-
-
-
-
-
-
   SECTION 2 — VISUAL APPEARANCE
 💡  This prevents Sai from guessing colors and packaging details wrong. Fill from actual product photos only.
 ⚠  Do NOT guess. If you cannot see it clearly in an official photo, leave it blank.
-
-
-
-
-
-
-
-
-
-
   SECTION 3 — KEY INGREDIENTS
 💡  List only confirmed ingredients from official documents, lab results, or product labels.
 ⚠  Never list ingredients from competitor sites or assumptions. Only write what is officially confirmed.
-
-
-
-
   SECTION 4 — PRODUCT BENEFITS
 ⚠  Benefits must be based on official SI claims only. No benefits from competitor descriptions or assumptions.
-
-
-
-
   SECTION 5 — HOW TO USE
 💡  This is one of the most common questions customers ask Sai. Be as specific and practical as possible.
-
-
-
-
-
-
-
   SECTION 6 — PRICING & AVAILABILITY
 ⚠  Only fill this if prices are officially published and stable. Leave blank if prices vary — Sai will redirect to SI team.
 💡  Sai will NEVER guess prices. If left blank, Sai will say "For pricing, contact the SI team directly."
-
-
-
-
   SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
 💡  This is the most powerful section for Sai. Write questions exactly the way customers ask them — in Taglish, English, or Filipino. Minimum 8 Q&A pairs per product.
 ⚠  Answers must be factual and confirmed. Never write an answer you are not 100% sure about.
 Write the question as a customer would naturally ask it — casual, conversational, Taglish is okay.
-
 ▌ Q&A Pair 1
-
 ▌ Q&A Pair 2
-
 ▌ Q&A Pair 3
-
 ▌ Q&A Pair 4
-
 ▌ Q&A Pair 5
-
 ▌ Q&A Pair 6
-
 ▌ Q&A Pair 7
-
 ▌ Q&A Pair 8
-
 ▌ Q&A Pair 9
-
 ▌ Q&A Pair 10
-
-
 ▌ Q&A Pair 11
-
   SECTION 8 — OBJECTIONS & SAI'S RESPONSES
 💡  These are common reasons customers hesitate. Write Sai's ideal response — honest, empathetic, not pushy.
 ⚠  Do NOT write responses that pressure the customer or make promises you cannot keep.
 ▌ Objection: "Mahal naman"
-
 ▌ Objection: "May mas mura naman."
-
 ▌ Objection: "Hindi ako hiyang sa kojic"
-
 ▌ Objection: "Hindi naman ako pumuputi."
-
-
-
-
 ▌ Objection: "Pwede ba ito sa may pimples?"
-
   SECTION 9 — WHAT SAI MUST NOT SAY ABOUT THIS PRODUCT
-
-
-
-
   SECTION 10 — SEARCH KEYWORDS
-
-
-
-
-
-
   SECTION 11 — CONVERSATION EXAMPLES
 ▌ Example 1
-
 ▌ Example 2
-
 ▌ Example 3
-
 ▌ Example 4
-
 ▌ Example 5
-
-
-
 ▌ Example 6
-
-
   SECTION 12 — ADDITIONAL NOTES & CONTEXT
 💡  Anything else Sai should know about this product that doesn't fit the sections above.
-
-
-
-
-
-
 ────────────────────────────────────────────────────────────────────────────────
 Supremacy International — Sai AI Knowledge Base Template  |  For internal use only. Prepared by Louie Garcia.
-
 📋  HOW TO USE THIS TEMPLATE
 
 1. Fill in ONE product per file. Do not combine multiple products in one document.
