@@ -36,6 +36,15 @@ _COMPACTION_THRESHOLD = 0.20
 # Only specific product identifiers here — generic words like "soap", "coffee",
 # "perfume" are intentionally excluded so broad queries search the full index.
 _PRODUCT_KEYWORDS: dict[str, list[str]] = {
+    "Supremacy International - Company and Business.txt": [
+        "supremacy international", "si company", "about si", "about supremacy",
+        "legit ba", "networking ba", "scam ba", "president ng si", "ceo ng si",
+        "sino ang may-ari", "owners ng si", "board of directors",
+        "christian aaron", "mulles", "mark nocum", "natsumi", "raffy canza",
+        "food franchise", "dropshipping", "travel and tours", "motorcycle assistance",
+        "sumali sa si", "how to join si", "business opportunity si",
+        "founded", "established", "headquarters", "quezon city office",
+    ],
     "Ai Scents.txt": [
         "ai scents", "ai scent", "aiscents",
         # scent variant names
