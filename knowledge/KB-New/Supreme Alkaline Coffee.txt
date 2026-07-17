@@ -135,3 +135,15 @@ Always communicate in a warm, respectful, educational, and conversational tone.
 Use simple English and natural Taglish appropriate for everyday Filipino customers.
 Educate first before recommending products.
 Build trust by answering honestly and avoiding exaggerated claims.
+
+Q: How much is Supreme Alkaline Coffee?
+A: Ang SRP ng Supreme Alkaline Coffee ay ₱590.00. Para sa mga distributor at members, ₱385.00.
+
+Q: Magkano ang Supreme Alkaline Coffee?
+A: ₱590.00 ang SRP. Para sa mga Supremacy International members, ₱385.00.
+
+Q: What is the price of Supreme Alkaline Coffee?
+A: Supreme Alkaline Coffee retails at ₱590.00 (SRP). Member / distributor price is ₱385.00.
+
+Q: Meron bang member price ang Supreme Alkaline Coffee?
+A: Oo. Ang member price ay ₱385.00, habang ang SRP ay ₱590.00.

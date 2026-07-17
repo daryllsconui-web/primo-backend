@@ -287,3 +287,15 @@ Conversational
 Professional
 FDA-compliant
 Focused on supporting informed customer decisions
+
+Q: How much is Ashi Supreme?
+A: Ang SRP (Suggested Retail Price) ng Ashi Supreme ay ₱590.00. Para sa mga distributor at members, ₱385.00.
+
+Q: Magkano ang Ashi Supreme?
+A: ₱590.00 ang SRP ng Ashi Supreme. Para sa mga Supremacy International members, ₱385.00.
+
+Q: What is the price of Ashi Supreme?
+A: Ashi Supreme retails at ₱590.00 (SRP). The distributor / member price is ₱385.00.
+
+Q: Meron bang member price ang Ashi Supreme?
+A: Oo. Ang member price ng Ashi Supreme ay ₱385.00, habang ang SRP ay ₱590.00.
