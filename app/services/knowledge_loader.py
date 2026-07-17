@@ -39,10 +39,13 @@ def _extract_text(file_path: Path) -> str | None:
 
 def ingest_knowledge_folder(app_state, knowledge_dir: Path | str) -> int:
     """
-    Scan knowledge_dir and ingest all supported files into the RAG pipeline.
-    Returns the number of files successfully ingested.
+    Sync knowledge_dir with the RAG index:
+      - Remove index entries whose source file no longer exists on disk (stale cleanup)
+      - Skip files already indexed (deduplication)
+      - Ingest new files not yet in the index
+    Returns the number of files newly ingested.
     """
-    from app.services.rag_service import ingest
+    from app.services.rag_service import ingest, delete_document
 
     knowledge_dir = Path(knowledge_dir)
 
@@ -55,21 +58,45 @@ def ingest_knowledge_folder(app_state, knowledge_dir: Path | str) -> int:
         if f.is_file() and f.suffix.lower() in SUPPORTED_EXTENSIONS
     ]
 
+    current_filenames = {f.name for f in files}
+
+    # Remove stale documents whose source file is no longer on disk
+    stale_doc_ids = [
+        doc_id for doc_id, doc in list(app_state.document_store.items())
+        if doc.filename not in current_filenames
+    ]
+    for doc_id in stale_doc_ids:
+        doc = app_state.document_store.get(doc_id)
+        logger.info("  REMOVING stale doc: %s (no longer in knowledge folder)", doc.filename if doc else doc_id)
+        try:
+            delete_document(doc_id, app_state)
+        except Exception as e:
+            logger.error("  FAILED to remove stale doc %s: %s", doc_id, e)
+
+    if stale_doc_ids:
+        logger.info("Removed %d stale document(s) from index", len(stale_doc_ids))
+
     if not files:
         logger.info("Knowledge folder is empty — no documents to ingest")
         return 0
 
-    logger.info("Found %d file(s) in knowledge folder — ingesting...", len(files))
+    # Build set of filenames already in the index
+    indexed_filenames = {doc.filename for doc in app_state.document_store.values()}
+
+    logger.info("Found %d file(s) in knowledge folder — checking for new files...", len(files))
     ingested = 0
 
     for file_path in sorted(files):
+        if file_path.name in indexed_filenames:
+            logger.info("  SKIP %s — already indexed", file_path.name)
+            continue
+
         text = _extract_text(file_path)
         if not text or not text.strip():
             logger.warning("Skipping %s — no text could be extracted", file_path.name)
             continue
 
         ext = file_path.suffix.lower().lstrip(".")
-        # Normalise file_type to one of the allowed Literal values
         file_type = ext if ext in ("pdf", "txt", "md") else "txt"
 
         try:
@@ -82,5 +109,5 @@ def ingest_knowledge_folder(app_state, knowledge_dir: Path | str) -> int:
         except Exception as e:
             logger.error("  FAILED to ingest %s: %s", file_path.name, e)
 
-    logger.info("Knowledge base ready — %d/%d file(s) ingested", ingested, len(files))
+    logger.info("Knowledge base ready — %d new file(s) ingested, %d total documents", ingested, len(app_state.document_store))
     return ingested

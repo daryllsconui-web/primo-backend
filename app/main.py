@@ -90,22 +90,15 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
         extra={"agent_name": settings.agent_name, "groq_model": settings.groq_model},
     )
 
-    # Load persisted knowledge base from disk (if available)
+    # Load persisted knowledge base from disk (if available), then sync with knowledge folder
+    from pathlib import Path
     from app.services.persistence_service import load as load_kb, save as save_kb
-    loaded = load_kb(app.state)
+    from app.services.knowledge_loader import ingest_knowledge_folder
+    knowledge_dir = Path(__file__).parent.parent / "knowledge"
 
-    if not loaded:
-        # No saved data — auto-ingest knowledge/ folder
-        from pathlib import Path
-        from app.services.knowledge_loader import ingest_knowledge_folder
-        knowledge_dir = Path(__file__).parent.parent / "knowledge"
-        ingest_knowledge_folder(app.state, knowledge_dir)
-    else:
-        # Data loaded — still check knowledge/ for any NEW files not yet ingested
-        from pathlib import Path
-        from app.services.knowledge_loader import ingest_knowledge_folder
-        knowledge_dir = Path(__file__).parent.parent / "knowledge"
-        ingest_knowledge_folder(app.state, knowledge_dir)
+    load_kb(app.state)
+    # Always sync: removes stale docs from old KB, skips already-indexed files, ingests new ones
+    ingest_knowledge_folder(app.state, knowledge_dir)
 
     # Start background session cleanup task
     cleanup_task = asyncio.create_task(_session_cleanup_loop(app))
