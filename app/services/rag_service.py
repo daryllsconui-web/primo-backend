@@ -42,7 +42,7 @@ def _l2_normalize(vectors: list[list[float]]) -> np.ndarray:
     return arr / norms
 
 
-def ingest(text: str, filename: str, file_type: str, app_state) -> Document:
+def ingest(text: str, filename: str, file_type: str, app_state, content_hash: str | None = None) -> Document:
     """
     Chunk *text*, embed chunks, L2-normalise, add to FAISS, store Document/Chunk records.
 
@@ -85,6 +85,7 @@ def ingest(text: str, filename: str, file_type: str, app_state) -> Document:
         file_type=file_type,  # type: ignore[arg-type]
         ingested_at=datetime.now(timezone.utc),
         chunk_ids=chunk_ids,
+        content_hash=content_hash,
     )
     app_state.document_store[doc_id] = doc
 

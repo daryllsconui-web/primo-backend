@@ -16,6 +16,7 @@ Usage (called from app/main.py lifespan):
 """
 from __future__ import annotations
 
+import hashlib
 import io
 import logging
 from pathlib import Path
@@ -80,27 +81,42 @@ def ingest_knowledge_folder(app_state, knowledge_dir: Path | str) -> int:
         logger.info("Knowledge folder is empty — no documents to ingest")
         return 0
 
-    # Build set of filenames already in the index
-    indexed_filenames = {doc.filename for doc in app_state.document_store.values()}
+    # Build map of filename -> (doc_id, content_hash) for files already in the index
+    indexed = {
+        doc.filename: (doc_id, getattr(doc, "content_hash", None))
+        for doc_id, doc in app_state.document_store.items()
+    }
 
-    logger.info("Found %d file(s) in knowledge folder — checking for new files...", len(files))
+    logger.info("Found %d file(s) in knowledge folder — checking for new or updated files...", len(files))
     ingested = 0
 
     for file_path in sorted(files):
-        if file_path.name in indexed_filenames:
-            logger.info("  SKIP %s — already indexed", file_path.name)
-            continue
-
         text = _extract_text(file_path)
         if not text or not text.strip():
             logger.warning("Skipping %s — no text could be extracted", file_path.name)
             continue
 
+        file_hash = hashlib.md5(text.encode("utf-8")).hexdigest()
+
+        if file_path.name in indexed:
+            _, stored_hash = indexed[file_path.name]
+            if stored_hash == file_hash:
+                logger.info("  SKIP %s — already indexed, content unchanged", file_path.name)
+                continue
+            else:
+                # File changed — remove old version before re-ingesting
+                old_doc_id = indexed[file_path.name][0]
+                logger.info("  UPDATE %s — content changed, re-ingesting", file_path.name)
+                try:
+                    delete_document(old_doc_id, app_state)
+                except Exception as e:
+                    logger.error("  FAILED to remove old version of %s: %s", file_path.name, e)
+
         ext = file_path.suffix.lower().lstrip(".")
         file_type = ext if ext in ("pdf", "txt", "md") else "txt"
 
         try:
-            doc = ingest(text, file_path.name, file_type, app_state)
+            doc = ingest(text, file_path.name, file_type, app_state, content_hash=file_hash)
             logger.info(
                 "  OK %s - %d chunk(s) (doc_id: %s)",
                 file_path.name, len(doc.chunk_ids), doc.doc_id
@@ -109,5 +125,5 @@ def ingest_knowledge_folder(app_state, knowledge_dir: Path | str) -> int:
         except Exception as e:
             logger.error("  FAILED to ingest %s: %s", file_path.name, e)
 
-    logger.info("Knowledge base ready — %d new file(s) ingested, %d total documents", ingested, len(app_state.document_store))
+    logger.info("Knowledge base ready — %d file(s) ingested/updated, %d total documents", ingested, len(app_state.document_store))
     return ingested

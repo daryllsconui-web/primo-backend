@@ -15,6 +15,7 @@ class Document(BaseModel):
     file_type: Literal["pdf", "txt", "md"]
     ingested_at: datetime
     chunk_ids: List[str]  # references into vector store
+    content_hash: str | None = None  # MD5 of file text — used to detect updates
 
 
 class Chunk(BaseModel):
