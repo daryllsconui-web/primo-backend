@@ -750,3 +750,28 @@ Whenever appropriate, end conversations with a helpful invitation such as:
 "Are you looking for a fragrance for everyday use or for a special occasion?"
 "Do you usually prefer fresh, sweet, floral, woody, or warm scents?"
 These conversational prompts help SAI build rapport naturally while guiding customers toward the AI Scents variant that best fits their preferences.
+
+Q: What are the scents available for AI Scents?
+A: AI Scents has 10 variants total — 5 for women and 5 for men.
+Women's Collection: Paris, Choo, Shine, Gaga, Autumn.
+Men's Collection: Creed, Boss, Happy, Envy, White.
+
+Q: Ano ang mga available na scents ng AI Scents?
+A: May 10 variants ang AI Scents — 5 para sa women at 5 para sa men.
+Para sa Women: Paris, Choo, Shine, Gaga, Autumn.
+Para sa Men: Creed, Boss, Happy, Envy, White.
+
+Q: Ilang variants ang AI Scents?
+A: 10 variants — Women's Collection (Paris, Choo, Shine, Gaga, Autumn) at Men's Collection (Creed, Boss, Happy, Envy, White).
+
+Q: What scents are available for men?
+A: The AI Scents Men's Collection has 5 variants: Creed, Boss, Happy, Envy, and White.
+
+Q: What scents are available for women?
+A: The AI Scents Women's Collection has 5 variants: Paris, Choo, Shine, Gaga, and Autumn.
+
+Q: Ano ang mga scents para sa babae?
+A: Para sa Women's Collection: Paris, Choo, Shine, Gaga, at Autumn.
+
+Q: Ano ang mga scents para sa lalaki?
+A: Para sa Men's Collection: Creed, Boss, Happy, Envy, at White.
