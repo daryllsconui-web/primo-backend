@@ -32,6 +32,48 @@ _splitter = RecursiveCharacterTextSplitter(
 # Rebuild FAISS when tombstoned vectors exceed this fraction of total vectors.
 _COMPACTION_THRESHOLD = 0.20
 
+# Maps KB filenames to keywords that clearly identify that product in a query.
+# Only specific product identifiers here — generic words like "soap", "coffee",
+# "perfume" are intentionally excluded so broad queries search the full index.
+_PRODUCT_KEYWORDS: dict[str, list[str]] = {
+    "Ai Scents.txt": [
+        "ai scents", "ai scent", "aiscents",
+        # scent variant names
+        "paris scent", "choo scent", "shine scent", "gaga scent", "autumn scent",
+        "creed scent", "boss scent", "happy scent", "envy scent", "white scent",
+    ],
+    "Ashi Supreme.txt": [
+        "ashi supreme", "ashi", "ashitaba",
+    ],
+    "Maison Supreme.txt": [
+        "maison supreme", "maison", "mason supreme",
+    ],
+    "Supreme Alkaline Coffee.txt": [
+        "supreme alkaline coffee", "alkaline coffee mix", "supreme coffee mix",
+    ],
+    "Supreme C.txt": [
+        "supreme c", "supreme c with", "sodium ascorbate collagen",
+    ],
+    "Supreme Glow Soap.txt": [
+        "supreme glow", "glow collagen soap", "glow soap",
+    ],
+    "Supreme Radiance Soap.txt": [
+        "supreme radiance", "radiance soap", "radiance whitening",
+    ],
+}
+
+
+def _detect_product_file(query: str) -> str | None:
+    """
+    Return the KB filename if the query clearly targets one specific product.
+    Returns None for generic queries so the full index is searched.
+    """
+    q = query.lower()
+    for filename, keywords in _PRODUCT_KEYWORDS.items():
+        if any(kw in q for kw in keywords):
+            return filename
+    return None
+
 
 def _l2_normalize(vectors: list[list[float]]) -> np.ndarray:
     """L2-normalise a batch of vectors. Returns float32 ndarray."""
@@ -101,6 +143,10 @@ def retrieve(
     """
     Encode *query*, search FAISS, filter by *threshold*, return qualifying Chunks.
 
+    When the query clearly targets one product, only chunks from that product's
+    document are returned (product-aware filtering). Falls back to full-index
+    search if filtering yields no results.
+
     Tombstoned chunk IDs (soft-deleted) are silently skipped.
     Returns empty list when the index is empty or no chunks meet the threshold.
     """
@@ -111,23 +157,48 @@ def retrieve(
     query_emb_raw = encode([query])
     query_emb = _l2_normalize(query_emb_raw)  # shape (1, 384)
 
-    k = min(top_k, app_state.faiss_index.ntotal)
-    scores, indices = app_state.faiss_index.search(query_emb, k)
+    # Detect if query targets a specific product
+    target_file = _detect_product_file(query)
+    target_doc_ids: set[str] | None = None
+    if target_file:
+        target_doc_ids = {
+            doc_id for doc_id, doc in app_state.document_store.items()
+            if doc.filename == target_file
+        }
+        logger.debug("Product filter active: %s (%d doc(s))", target_file, len(target_doc_ids))
+
+    # Fetch more candidates when filtering so we have enough after narrowing
+    fetch_k = min(top_k * 4 if target_doc_ids else top_k, app_state.faiss_index.ntotal)
+    scores, indices = app_state.faiss_index.search(query_emb, fetch_k)
 
     deleted: set[str] = getattr(app_state, "deleted_chunk_ids", set())
 
-    results: list[Chunk] = []
-    for score, idx in zip(scores[0], indices[0]):
-        if idx < 0:
-            continue  # FAISS returns -1 for padded results
-        if float(score) < threshold:
-            continue
-        chunk_id = app_state.faiss_id_map[int(idx)]
-        if chunk_id in deleted:
-            continue  # soft-deleted — skip without touching FAISS
-        chunk = app_state.chunk_store.get(chunk_id)
-        if chunk is not None:
+    def _collect(filter_doc_ids: set[str] | None) -> list[Chunk]:
+        results: list[Chunk] = []
+        for score, idx in zip(scores[0], indices[0]):
+            if idx < 0:
+                continue
+            if float(score) < threshold:
+                continue
+            chunk_id = app_state.faiss_id_map[int(idx)]
+            if chunk_id in deleted:
+                continue
+            chunk = app_state.chunk_store.get(chunk_id)
+            if chunk is None:
+                continue
+            if filter_doc_ids and chunk.doc_id not in filter_doc_ids:
+                continue
             results.append(chunk)
+            if len(results) >= top_k:
+                break
+        return results
+
+    results = _collect(target_doc_ids)
+
+    # Fallback: if product filter returned nothing, search the full index
+    if target_doc_ids and not results:
+        logger.info("Product filter for '%s' returned 0 results — falling back to full index", target_file)
+        results = _collect(None)
 
     return results
 

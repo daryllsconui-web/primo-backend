@@ -90,8 +90,8 @@ class Settings(BaseSettings):
     max_inline_text_chars: int = 50000
 
     # --- Optional: RAG ---
-    similarity_threshold: float = 0.62
-    top_k: int = 5
+    similarity_threshold: float = 0.58
+    top_k: int = 10
     max_file_size_mb: int = 20
     max_files_per_request: int = 10
 
