@@ -1,0 +1,433 @@
+SUPREMACY INTERNATIONAL
+SAI AI AGENT — KNOWLEDGE BASE TEMPLATE
+Use one copy of this template per product. Fill in all sections completely.
+
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 0 — DOCUMENT INFORMATION
+⚠  Complete this section before filling in anything else.
+
+
+
+
+
+
+  SECTION 1 — PRODUCT IDENTITY
+💡  Sai uses this section to confirm product names and avoid inventing products that don't exist.
+
+
+
+
+
+
+
+  SECTION 2 — VISUAL APPEARANCE
+💡  This prevents Sai from guessing colors and packaging details wrong. Fill from actual product photos only.
+⚠  Do NOT guess. If you cannot see it clearly in an official photo, leave it blank.
+
+
+
+
+
+
+
+
+
+
+  SECTION 3 — KEY INGREDIENTS
+💡  List only confirmed ingredients from official documents, lab results, or product labels.
+⚠  Never list ingredients from competitor sites or assumptions. Only write what is officially confirmed.
+
+
+
+
+  SECTION 4 — PRODUCT BENEFITS
+⚠  Benefits must be based on official SI claims only. No benefits from competitor descriptions or assumptions.
+
+
+
+
+  SECTION 5 — HOW TO USE
+💡  This is one of the most common questions customers ask Sai. Be as specific and practical as possible.
+
+
+
+
+
+
+
+  SECTION 6 — PRICING & AVAILABILITY
+⚠  Only fill this if prices are officially published and stable. Leave blank if prices vary — Sai will redirect to SI team.
+💡  Sai will NEVER guess prices. If left blank, Sai will say "For pricing, contact the SI team directly."
+
+
+
+
+  SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
+💡  This is the most powerful section for Sai. Write questions exactly the way customers ask them — in Taglish, English, or Filipino. Minimum 8 Q&A pairs per product.
+⚠  Answers must be factual and confirmed. Never write an answer you are not 100% sure about.
+Write the question as a customer would naturally ask it — casual, conversational, Taglish is okay.
+
+▌ Q&A Pair 1
+
+▌ Q&A Pair 2
+
+▌ Q&A Pair 3
+
+▌ Q&A Pair 4
+
+▌ Q&A Pair 5
+
+▌ Q&A Pair 6
+
+▌ Q&A Pair 7
+
+▌ Q&A Pair 8
+
+▌ Q&A Pair 9
+
+▌ Q&A Pair 10
+
+
+▌ Q&A Pair 11
+
+  SECTION 8 — OBJECTIONS & SAI'S RESPONSES
+💡  These are common reasons customers hesitate. Write Sai's ideal response — honest, empathetic, not pushy.
+⚠  Do NOT write responses that pressure the customer or make promises you cannot keep.
+▌ Objection: "Mahal naman"
+
+▌ Objection: "May mas mura naman."
+
+▌ Objection: "Hindi ako hiyang sa kojic"
+
+▌ Objection: "Hindi naman ako pumuputi."
+
+
+
+
+▌ Objection: "Pwede ba ito sa may pimples?"
+
+  SECTION 9 — WHAT SAI MUST NOT SAY ABOUT THIS PRODUCT
+
+
+
+
+  SECTION 10 — SEARCH KEYWORDS
+
+
+
+
+
+
+  SECTION 11 — CONVERSATION EXAMPLES
+▌ Example 1
+
+▌ Example 2
+
+▌ Example 3
+
+▌ Example 4
+
+▌ Example 5
+
+
+
+▌ Example 6
+
+
+  SECTION 12 — ADDITIONAL NOTES & CONTEXT
+💡  Anything else Sai should know about this product that doesn't fit the sections above.
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+Supremacy International — Sai AI Knowledge Base Template  |  For internal use only. Prepared by Louie Garcia.
+
+📋  HOW TO USE THIS TEMPLATE
+
+1. Fill in ONE product per file. Do not combine multiple products in one document.
+2. Use ONLY confirmed, official information. Never guess or copy from competitor sites.
+3. The FAQ section is the most important — write at least 8 Q&A pairs per product.
+4. Write answers the way a real person talks — not like a brochure.
+5. Save the completed file as a .txt file (plain text) when done, then add it to the KB folder.
+6. Never include personal names, phone numbers, addresses, or Viber/SMS contacts.
+7. Leave a field blank (do not guess) if you do not have confirmed information.
+Product Name | Supreme Radiance Daily Whitening Soap
+_______________________________________________
+Document Author | Supremacy AI Knowledge Team
+_______________________________________________
+Date Completed | 16/07/2026
+_______________________________________________
+Version | Version 1.0
+_______________________________________________
+Status | DRAFT / REVIEW / APPROVED — only APPROVED files go into the KB folder
+_______________________________________________
+Reviewed By | President Aaron Mulles
+Prepared by Louie Garcia
+Official Product Name | Supreme Radiance Daily Whitening Soap
+_______________________________________________
+Product Line / Series | Beauty & Personal Care / Brightening Series
+_______________________________________________
+Category | Beauty & Personal Care / Whitening Soap
+_______________________________________________
+Product Variants | One variant only - 125g Soap Bar
+_______________________________________________
+_______________________________________________
+_______________________________________________
+SI Product Code | Supreme Radiance Daily Whitening Soap
+_______________________________________________
+Formulated / Made In | Formulated in Japan
+_______________________________________________
+Regulatory Status | FDA Registered and Approved, No Therapeutic Claims
+_______________________________________________
+Packaging Type | Premium carton box with individually wrapped soap bar
+_______________________________________________
+Packaging Primary Color | White
+_______________________________________________
+Packaging Secondary Color | White, Silver, Light Blue, SI Logo
+_______________________________________________
+Packaging Size / Dimensions | 125g
+_______________________________________________
+Number of Units per Pack | 1 soap bar (125g)
+_______________________________________________
+Product Color (the product itself) | White soap bar
+_______________________________________________
+Text on Packaging (key text) | Supreme Radiance Daily Whitening Soap
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Logo / Brand Mark | Supremacy International (SI Logo)
+_______________________________________________
+Cap / Closure Type | Carton box with protective inner wrap
+_______________________________________________
+Special Design Elements | Kojic Acid
+_______________________________________________
+_______________________________________________
+Main / Hero Ingredient | Kojic Acid
+_______________________________________________
+Supporting Ingredients | Papaya Extract, Aloe Vera Extract, Cucumber Extract
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Full Ingredient List | Sodium Ascorbate Calcium Ascorbate Collagen Type 1
+and 3 Rosehip Zinc
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Ingredients NOT in this product
+_______________________________________________
+_______________________________________________
+Primary Benefit | Helps cleanse, moisturize and brighten the skin.
+_______________________________________________
+Secondary Benefits | Helps remove dirt and impurities.
+Helps improve the appearance of uneven skin tone.
+Helps maintain skin hydration.
+Helps leave skin soft and refreshed.
+Supports smoother-looking skin.
+and Collagen supplementation.
+Who benefits most from this product? | Adults looking to support their
+daily Vitamin C intake.
+Individuals who want antioxidant support.
+People looking to support healthy skin, nails and hair.
+When will someone feel/see results?
+When will someone feel/see results? | Realistic timeframe if available — leave blank if not confirmed
+_______________________________________________
+Serving Size / Dosage | Wet skin and lather generously.
+_______________________________________________
+How to Prepare / Apply | Massage onto wet skin then rinse thoroughly.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Best Time to Take / Use | Use morning and evening before bedtime or as needed.
+_______________________________________________
+With or Without Food? | Not Applicable
+_______________________________________________
+How Long to Use | As per needed and recommendations of health professionals
+_______________________________________________
+Storage Instructions | Store in a cool, dry place.
+Keep away from direct sunlight and moisture.
+Precautions / Who should NOT use this | If you are pregnant, nursing,
+taking any medications, planning any medical or surgical procedure, or
+have any medical condition, consult your doctor before use.
+Discontinue use and consult your doctor if any adverse reactions occur.
+This is not a medical drug and should not be used to treat the symptoms of any disease.
+SRP (Suggested Retail Price) | ₱250.00 per 125g soap
+_______________________________________________
+Reseller / Distributor Price | ₱163 Member Price
+_______________________________________________
+Where to Buy | Exclusively available on this site, You may Add to Cart on this official Supremacy Store
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Availability | Official Supremacy channels
+_______________________________________________
+What is Supreme Radiance Daily Whitening Soap?
+A:  Supreme Radiance Daily Whitening Soap is a premium Japanese-formulated beauty soap designed to cleanse, moisturize, and brighten the skin as part of your daily skincare routine. It contains Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract to help remove impurities while supporting a smoother, softer, and healthier-looking complexion.
+Q:  Para saan ang Supreme Radiance?
+A:  It is formulated to help cleanse the skin, remove excess oil and dirt, maintain moisture, and improve the appearance of dull skin, uneven skin tone, dark spots, and acne marks with regular use as part of a complete skincare routine.
+Pwede ba ito gamitin araw-araw?
+A: Yes. Supreme Radiance is formulated for daily use. If you have sensitive skin, you may begin using it once a day and gradually increase usage depending on how your skin responds.
+Q:  Pwede ba ito sa mukha?
+A:  Yes. Many users use Supreme Radiance on both the face and body. Since facial skin is more delicate, avoid prolonged contact if irritation occurs and always moisturize afterward.
+Q:  Ilang araw bago makita ang effect?
+A: Results vary from person to person depending on skin type, lifestyle, sun exposure, skincare routine, and consistency of use. Most users first notice cleaner, smoother, and fresher-looking skin before improvements in skin brightness become more noticeable.
+Q:  Nakakaputi ba talaga ito?
+A: Supreme Radiance is formulated with brightening ingredients like Kojic Acid and Papaya Extract that help improve the appearance of uneven skin tone and dull-looking skin. Results vary for every individual, and regular use together with proper skincare and sun protection is recommended.
+Q:  Magkano?
+₱250.00 retail price.
+Q:  Saan mabibili?
+A:  available at exclusive lang ito dito sa Official Supremacy Store at Supremacy official channels
+Q:   Pwede ba ito sa mga lalaki?
+A: Absolutely. Supreme Radiance is suitable for both men and women who want cleaner, smoother, and brighter-looking skin.
+Q:  Q: Safe ba ito sa sensitive skin?
+A:  People with sensitive skin may use the product, but we recommend performing a patch test first. If redness, excessive dryness, or irritation develops, discontinue use and consult a dermatologist.
+Q: Ano ang ingredients nito?
+A: Supreme Radiance contains Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract—ingredients commonly used in skincare to help brighten, moisturize, gently exfoliate, and refresh the skin.
+Customer says: "Mahal naman"
+Sai responds:
+Naiintindihan ko po. Supreme Radiance is formulated in Japan and combines four well-known skincare ingredients—Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract—in one daily beauty soap. Many customers appreciate its premium formulation and daily skincare benefits as part of their routine.
+Customer says: "May mas mura naman na whitening soap"
+Kojic Acid, Papaya Extract, Aloe Vera Extract at Cucumber Extract.
+kanya-kanyang papel at nagtutulungan bilang bahagi ng isang balanced beauty and whitening ingredients.  At Totoo po, maraming whitening soaps sa market. Ang mahalaga ay piliin ang product na bagay sa inyong skincare goals. Supreme Radiance combines cleansing, moisturizing, and brightening ingredients in one Japanese-formulated soap designed for daily use.
+Customer says: "Hindi ako hiyang sa kojic soap"
+Sai responds:  Iba-iba po ang skin sensitivity ng bawat tao. Kung alam ninyong sensitive kayo sa Kojic Acid, magandang mag-patch test muna sa maliit na bahagi ng balat bago gamitin nang regular. Kung magkaroon ng irritation, itigil ang paggamit at kumonsulta sa dermatologist.
+Customer says: "Hindi naman ako pumuputi at walang epek sa akin"
+Sai responds:  Salamat po sa pag-share. Skin response differs from person to person. Consistent use, proper cleansing, moisturizing, and daily sunscreen all play important roles in achieving healthier and brighter-looking skin over time.
+Customer says: "Pwede ba ito sa may pimples?"
+Sai responds:  Supreme Radiance is a cosmetic cleansing soap and is not intended to treat acne. However, keeping the skin clean and removing excess oil may help support a healthy skincare routine. For persistent acne concerns, we recommend consulting a dermatologist.
+Claims to NEVER make about this product | - Do not claim it cures or treat skin diseases.
+- Do not claim it replaces prescribed any skin related medications.
+- Do not claim guaranteed results.
+- Do not claim it is an instant beauty effect.
+_______________________________________________
+_______________________________________________
+Common misconceptions to correct | - Supreme Radiance Daily Whitening Soap is not a treatment to any skin diseases.
+- Results vary per individual.
+- This product should not be used to treat disease symptoms
+Competitor products to avoid mentioning
+Competitor products to avoid mentioning | As there are so many brands with similar products in the market, we categorically don't have to mention anything but stick to our product brand.
+_______________________________________________
+_______________________________________________
+English keywords | Supreme C Vitamin C with Collagen, Vitamin C, SI Collagen
+Supreme Radiance
+Supreme Radiance Soap
+Daily Whitening Soap
+Brightening Soap
+Japanese Whitening Soap
+Kojic Soap
+Papaya Soap
+Aloe Vera Soap
+Cucumber Extract Soap
+Skin Brightening Soap
+Daily Facial Soap
+Body Whitening Soap
+Moisturizing Soap
+Premium Beauty Soap
+Supremacy International Soap
+Common Misspellings
+Supreme Radiant
+Supreme Radiants
+Suprem Radiance
+Radiance Soap
+Radiance Whitening
+Supreme Whitening Soap
+Supreme Kojic Soap
+SI Radiance
+Related Search Concerns
+Dark Spots
+Hyperpigmentation
+Uneven Skin Tone
+Acne Marks
+Dull Skin
+Dry Skin
+Skin Moisturizing
+Daily Skincare
+Healthy-looking Skin
+Glowing Skin
+Filipino / Tagalog keywords | Bitamin C, Collagen, Vitamin C ng Supremacy Collagen na Vitamin C
+Filipino Keywords
+Pampaputing sabon
+Pampakinis na sabon
+Sabon para sa dark spots
+Sabon para sa acne marks
+Sabon na may Kojic
+Sabon ng Supremacy
+Pampaganda ng kutis
+Sabon para sa mukha
+Sabon para sa katawan
+Pampantay ng kulay ng balat
+_______________________________________________
+_______________________________________________
+Taglish phrases | Supreme C capsule Vitamin C with collagen ng SI
+Taglish Phrases
+Supreme Radiance whitening soap
+Japanese whitening soap ng SI
+Supremacy beauty soap
+Soap for glowing skin
+Soap for dark spots
+Soap for uneven skin tone
+Daily brightening soap
+Best whitening soap ng SI
+Radiance soap
+Skin brightening soap
+_______________________________________________
+_______________________________________________
+Related Search Skin Concerns | Suprem C Supreme Collagen
+Dark Spots
+Hyperpigmentation
+Uneven Skin Tone
+Acne Marks
+Dull Skin
+Dry Skin
+Skin Moisturizing
+Daily Skincare
+Healthy-looking Skin
+Glowing Skin
+_______________________________________________
+Related health concerns | Immune support Skin health Antioxidant support
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Customer:  Ano ang Supreme Radiance Daily Whitening Soap?
+Sai:  Supreme Radiance is a Japanese-formulated Daily Whitening Soap designed to cleanse, moisturize, and brighten your skin. It contains Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract to help support smoother and healthier-looking skin with regular use.
+Customer:  Pwede ba ito gamitin ng lalaki??
+Sai:  Yes po. Supreme Radiance is suitable for both men and women. Healthy and well-maintained skin is for everyone.
+Customer:  Sensitive skin ako.
+Sai:  Kung sensitive po ang skin ninyo, recommend namin na mag-patch test muna bago regular gamitin. Kung makaranas ng irritation o discomfort, ihinto muna ang paggamit at kumonsulta sa dermatologist.
+Customer:  Bakit mas mahal kaysa sa ibang Whitening Soap?
+Sai:  Totoo po, maraming whitening soaps sa market. Ang mahalaga ay piliin ang product na bagay sa inyong skincare goals. Supreme Radiance combines cleansing, moisturizing, and brightening ingredients in one Japanese-formulated soap designed for daily use.
+Customer:  Pwede ba ito sa body lang??
+Sai:  Yes po. Maaari itong gamitin sa body lamang o parehong face at body depende sa inyong skincare routine at skin sensitivity.
+Customer:  Ano ang difference nito sa ordinary soap?
+Sai:  Unlike ordinary cleansing soaps, Supreme Radiance combines cleansing with moisturizing and brightening ingredients such as Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract. These ingredients help support healthier-looking skin while keeping it clean and refreshed.
+Product backstory / origin | Supreme Radiance Daily Whitening Soap was developed to provide a premium Japanese-formulated beauty soap that combines effective cleansing with skin-conditioning ingredients in one daily skincare product. Rather than serving only as a cleansing soap, it is formulated to help maintain smoother, softer, moisturized, and brighter-looking skin as part of a consistent skincare routine. 
+
+The carefully selected combination of Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract reflects Supremacy International's commitment to offering quality beauty products designed for everyday use.
+Best-selling points for resellers | • Formulated in Japan with carefully selected cosmetic ingredients.
+• Combines cleansing, moisturizing, and brightening benefits in one product.
+• Contains Kojic Acid, Papaya Extract, Aloe Vera Extract, and Cucumber Extract.
+• Suitable for both men and women.
+• Designed for everyday face and body cleansing.
+• Premium packaging that enhances customer confidence.
+• Affordable member pricing with attractive retail profit potential.
+• Easy to recommend because skincare is a daily essential.
+• Complements other Supremacy beauty and wellness products.
+• Ideal as an introductory product for new customers discovering the Supremacy product line.
+Seasonal / occasion relevance | • Suitable for year-round daily skincare.
+• Especially popular during summer when many people are concerned about sun exposure, tanning, and uneven skin tone.
+• Ideal after beach vacations or outdoor activities as part of a daily cleansing routine.
+• Frequently purchased as a personal care essential or beauty gift.
+Cross-sell opportunities | • Recommend Supreme Glow Collagen Anti-Aging Soap for customers looking to complement their brightening routine with a soap focused on skin firmness and anti-aging care.
+• Pair with Supreme C with Advanced Collagen to support overall wellness and collagen formation from within as part of a balanced lifestyle.
+• Introduce other Supremacy wellness and beauty products based on the customer's skincare goals and daily routine.
+_______________________________________________
+Notes for KB team | • Always describe Supreme Radiance as a cosmetic beauty soap, not as a medicine or therapeutic product.
+• Never claim that the product cures acne, melasma, eczema, psoriasis, fungal infections, or any skin disease.
+• Avoid promising guaranteed whitening, permanent fairness, or exact timelines for visible results.
+• When discussing Kojic Acid, Papaya Extract, Aloe Vera Extract, or Cucumber Extract, explain their cosmetic skincare functions rather than making medical claims.
+• Encourage the use of sunscreen during the day, as brightening skincare products are best supported by sun protection.

@@ -1,0 +1,978 @@
+SUPREMACY INTERNATIONAL
+SAI AI AGENT — KNOWLEDGE BASE TEMPLATE
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 0 — DOCUMENT INFORMATION
+⚠  Complete this section before filling in anything else.
+
+
+
+
+
+
+  SECTION 1 — PRODUCT IDENTITY
+💡  Sai uses this section to confirm product names and avoid inventing products that don't exist.
+
+
+
+
+
+
+
+  SECTION 2 — VISUAL APPEARANCE
+
+
+
+
+
+
+
+
+
+
+
+  SECTION 3 — KEY INGREDIENTS
+
+
+
+
+
+  SECTION 4 — PRODUCT BENEFITS
+
+
+
+
+
+
+  SECTION 5 — HOW TO USE
+
+
+
+
+
+
+
+
+  SECTION 6 — PRICING & AVAILABILITY
+
+
+
+
+
+  SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
+
+▌ Q&A Pair 1
+
+
+
+
+▌ Q&A Pair 2
+
+▌ Q&A Pair 3
+
+▌ Q&A Pair 4
+
+▌ Q&A Pair 5
+
+▌ Q&A Pair 6
+
+▌ Q&A Pair 7
+
+
+
+▌ Q&A Pair 8
+
+▌ Q&A Pair 9
+
+▌ Q&A Pair 10
+
+Add more Q&A pairs on a separate page if needed. The more, the better.
+  SECTION 8 — OBJECTIONS & SAI'S RESPONSES
+▌ Objection: "Hindi ko pa naririnig ang AI Scents. Okay ba talaga ito?"
+
+▌ Objection: "Medyo mahal para sa perfume."
+
+▌ Objection: "Inspired lang pala."
+
+▌ Objection: "Hindi ko alam kung bagay sa akin."
+
+▌ Objection: "Paano kung hindi tumagal?"
+
+  SECTION 9 — WHAT SAI MUST NOT SAY ABOUT THIS PRODUCT
+
+
+
+
+  SECTION 10 — SEARCH KEYWORDS
+
+
+
+
+
+
+
+
+
+
+
+
+  SECTION 11 — CONVERSATION EXAMPLES
+
+▌ Example 1
+
+▌ Example 2
+
+▌ Example 3
+
+▌ Example 4
+
+▌ Example 5
+
+
+
+
+
+
+
+  SECTION 12 — ADDITIONAL NOTES & CONTEXT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+Supremacy International — Sai AI Knowledge Base Template  |  For internal use only. Prepared by Louie Garcia
+
+
+AI SCENTS MASTER KB UPDATE NOTES
+This template has been converted into the AI Scents Master Knowledge Base. Complete Sections 7–12 with the expanded enterprise content previously drafted including fragrance FAQs, objections, AI guardrails, search keywords, conversation examples, brand story, reseller positioning, and cross-selling guidance.
+
+
+SUPREMACY INTERNATIONAL
+SAI AI AGENT — KNOWLEDGE BASE TEMPLATE
+
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 0 — DOCUMENT INFORMATION
+
+
+
+
+
+
+
+  SECTION 1 — PRODUCT IDENTITY
+
+
+
+
+
+
+
+
+  SECTION 2 — VISUAL APPEARANCE
+
+
+
+
+
+
+
+
+
+
+
+  SECTION 3 — KEY INGREDIENTS
+
+
+
+
+  SECTION 4 — PRODUCT BENEFITS
+
+
+
+
+
+  SECTION 5 — HOW TO USE
+
+
+
+
+
+
+
+
+  SECTION 6 — PRICING & AVAILABILITY
+
+
+
+
+
+  SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
+
+▌ Q&A Pair 1
+
+▌ Q&A Pair 2
+
+
+▌ Q&A Pair 3
+
+
+
+▌ Q&A Pair 4
+
+▌ Q&A Pair 5
+
+▌ Q&A Pair 6
+
+▌ Q&A Pair 7
+
+▌ Q&A Pair 8
+
+▌ Q&A Pair 9
+
+▌ Q&A Pair 10
+
+SECTION 8 — OBJECTIONS & SAI'S RESPONSES
+▌ Objection: " Medyo mahal naman."
+
+▌ Objection: "Paano kung hindi naman tumagal sa akin?"
+
+▌ Objection: "Inspired lang pala ito, hindi original."
+
+▌ Objection: "Hindi ko alam kung anong variant ang pipiliin."
+
+▌ Objection: "Hindi pa ako familiar sa AI Scents."
+
+▌ Objection: "Sensitive ako sa pabango."
+
+
+▌ Objection: "Marami na akong pabango."
+
+
+▌ Objection: "Hindi ako mahilig magpabango."
+
+▌ Objection: "Mas mura yung nakita ko online."
+
+▌ Objection: "Pag-isipan ko muna."
+
+ 
+
+  SECTION 9 — WHAT SAI MUST NOT SAY ABOUT THIS PRODUCT
+
+
+
+
+  SECTION 10 — SEARCH KEYWORDS
+
+
+
+
+
+
+
+
+
+  SECTION 11 — CONVERSATION EXAMPLES
+
+▌ Example 1
+
+▌ Example 2
+
+
+
+
+
+
+
+▌ Example 3
+
+▌ Example 4
+
+▌ Example 5
+
+  SECTION 12 — ADDITIONAL NOTES & CONTEXT
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+Supremacy International — Sai AI Knowledge Base Template  |  For internal use only. Prepared by Louie Garcia
+AI SCENTS MASTER KB UPDATE NOTES
+This template has been converted into the AI Scents Master Knowledge Base. Complete Sections 7–12 with the expanded enterprise content previously drafted including fragrance FAQs, objections, AI guardrails, search keywords, conversation examples, brand story, reseller positioning, and cross-selling guidance.
+
+GENERAL KNOWLEDGE BASE FOR AI SCENTS
+Product Name | AI Scents for Men & Women Eau de Parfum
+_______________________________________________
+Document Author | Supremacy AI Knowledge Team
+_______________________________________________
+Date Completed | 14/07/2026
+_______________________________________________
+Version | Version 1.0 Document 1
+_______________________________________________
+Status | DRAFT / REVIEW / APPROVED — only APPROVED files go into the KB folder
+_______________________________________________
+Reviewed By | Pres Aaron Mulles / Prepared by Louie Garcia
+_______________________________________________
+Official Product Name | AI Scents for Men & Women Eau de Parfum
+_______________________________________________
+Product Line / Series | Beauty & Personal Care / Premium Fragrance Collection
+_______________________________________________
+Category | Beauty & Personal Care / Eau de Parfum
+_______________________________________________
+Product Variants | Men's Collection and Women's Collection (50ml Eau de Parfum variants)
+_______________________________________________
+_______________________________________________
+_______________________________________________
+SI Product Code | AI-SCENTS-50ML
+_______________________________________________
+Formulated / Made In | Premium International Fragrance Formulation
+_______________________________________________
+Regulatory Status | Cosmetic Product. No Approved Therapeutic Claims.
+_______________________________________________
+Packaging Type | Premium printed perfume carton with elegant glass spray bottle
+_______________________________________________
+Packaging Primary Color | White for Women Collections
+Black for Men’s Collections
+Packaging Secondary Color | White, Silver, SI Logo
+_______________________________________________
+Packaging Size / Dimensions | 50ml
+_______________________________________________
+Number of Units per Pack | 1 bottle per retail box  (50ml)
+_______________________________________________
+Product Color (the product itself) | Clear to light amber fragrance liquid (may vary slightly by frangrance variants)
+_______________________________________________
+Text on Packaging (key text) | SI Logo, AI Scents, variant name, Eau de Parfum, 50ml (1.7 Fl. Oz.) AI scents tagline, Ingredients, cautions, Supremacy International manufacturer and distribution, for Men & Women Eau de Parfum
+_______________________________________________
+Logo / Brand Mark | Supremacy International (SI Logo)
+_______________________________________________
+Cap / Closure Type | Removable protective cap with fine mist spray atomizer
+_______________________________________________
+Special Design Elements | Elegant minimalists packaging, premium inspired presentation, variant-specific color theme (White for Women’s collection, Black for Men’s collection), travel-friendly size, gift ready design)
+_______________________________________________
+_______________________________________________
+Main / Hero Ingredient | Premium Fragrance Blend (Parfum)
+_______________________________________________
+Supporting Ingredients | Ethanol, Fixative, Dipropylene Glycol, Purified Water, Moisturizing agent
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Full Ingredient List | Not applicable
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Ingredients NOT in this product
+_______________________________________________
+_______________________________________________
+Primary Benefit | Provides a pleasant and long-lasting fragrance experience.
+Helps enhance personal grooming and everyday freshness.
+Complements individual personality and lifestyle through different fragrance profiles.
+Offers a premium-inspired Eau de Parfum experience in an elegant presentation.
+Suitable for daily wear, work, school, travel, and special occasions.
+_______________________________________________
+Secondary Benefits | Helps create a polished and well-groomed personal image.
+Complements professional, casual, or formal attire.
+Fine mist spray allows even and convenient application.
+Compact 50ml bottle is easy to carry while traveling.
+Elegant packaging makes it suitable for gifting.
+Available in multiple fragrance profiles for both men and women.
+Who benefits most from this product? | AI Scents is ideal for:
+Men and women aged 18 years and above.
+Students.
+Working professionals.
+Entrepreneurs.
+Business executives.
+Travelers.
+Individuals who appreciate premium-inspired fragrances.
+When will someone feel/see results? | Customers typically notice the fragrance immediately after application.
+The perceived longevity and projection may vary depending on:
+Individual skin chemistry.
+Climate and temperature.
+Humidity.
+Activity level.
+Application method.
+Clothing fabric.
+The product is designed to provide a longer-lasting fragrance experience through its 25% oil-based Eau de Parfum formulation, although actual wear time differs from person to person.
+_______________________________________________
+Serving Size / Dosage | Apply approximately 2–5 sprays per use, depending on personal preference.
+_______________________________________________
+How to Prepare / Apply | Spray onto clean, dry skin, focusing on pulse points such as the wrists, neck, behind the ears, and inner elbows. Avoid rubbing the fragrance after application to help preserve the scent profile.
+_______________________________________________
+Best Time to Take / Use | Use before work, school, meetings, travel or special occasions.
+Apply after bathing or grooming before leaving home. Reapply as desired for continued freshness throughout the day.
+With or Without Food? | Not Applicable. This product is for external use only.
+_______________________________________________
+How Long to Use | Suitable for everyday use. Re-apply based on personal preference or as needed.
+_______________________________________________
+Storage Instructions | Store below 30°C in a cool dry place.
+Store in a cool, dry place away from direct sunlight, excessive heat, and open flames. Keep the bottle tightly closed when not in use.
+Keep away from direct sunlight and excessive heat.
+Precautions / Who should NOT use this | For external use only. Avoid spraying into the eyes, mouth, ears, or on broken or irritated skin. Discontinue use if irritation occurs. Keep out of reach of children. Individuals with known fragrance sensitivities should perform a patch test before regular use. Do not expose the product to high temperatures or direct flames due to its alcohol content.
+SRP (Suggested Retail Price) | ₱590.00 per 50ml perfume
+_______________________________________________
+Reseller / Distributor Price | ₱385.00 Member Price
+_______________________________________________
+Where to Buy | Exclusively available on this officia Supremacy Store, You may Add to Cart on this official Supremacy Store
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Availability | Official Supremacy International channels and authorized distributors.
+_______________________________________________
+What is AI Scents for Men & Women Eau de Parfum?
+AI Scents is Supremacy International's premium-inspired Eau de Parfum collection designed for both men and women. It features a 25% oil-based fragrance formulation in an elegant 50ml spray bottle, offering a selection of fragrance profiles suitable for different personalities, lifestyles, and occasions. Whether you're looking for an everyday fragrance or something for special events, AI Scents aims to provide a premium fragrance experience at an accessible price.
+Q: Is AI Scents for men or women??
+AI Scents is available for both men and women. The collection includes separate fragrance selections for each, with carefully chosen scent profiles to suit different personalities and preferences. If you'd like, I can also help you choose the most suitable variant based on the type of fragrance you prefer.
+Q: What type of perfume is AI Scents?
+SAI:  AI Scents is an Eau de Parfum (EDP), formulated with a 25% oil-based fragrance blend. Eau de Parfum generally contains a higher concentration of fragrance oils than lighter fragrance types, providing a richer and longer-lasting fragrance experience while remaining suitable for everyday use.
+Q:  How do I use AI Scents?
+SAI: Simply spray the perfume on clean, dry skin, preferably on pulse points such as your wrists, neck, and behind the ears. These areas naturally help diffuse the fragrance throughout the day. For best results, avoid rubbing the perfume after spraying and store it away from direct sunlight and excessive heat.
+Q:  How long does AI Scents last?
+SAI: AI Scents uses a 25% oil-based Eau de Parfum formulation, which is designed to provide a longer-lasting fragrance experience. However, fragrance longevity naturally varies depending on your skin chemistry, weather, activity level, and how the perfume is applied. For best performance, apply it on moisturized skin and pulse points.
+Q:  Can I use AI Scents every day?
+A:  Yes. AI Scents is designed for everyday wear. Whether you're going to work, school, meetings, casual outings, or special occasions, you can wear it as part of your daily grooming routine. Many customers also enjoy having different variants for different occasions.
+Q:  Is AI Scents a good gift?
+SAI: Definitely. AI Scents comes in an elegant 50ml bottle with premium packaging, making it a thoughtful gift for birthdays, anniversaries, graduations, holidays, Valentine's Day, Father's Day, Mother's Day, or any special occasion. If you're buying for someone else, I can also help recommend a suitable fragrance based on their personality or preferences.
+Q:  How much is AI Scents?
+A:  The Suggested Retail Price (SRP) of AI Scents is ₱590.00 per 50ml bottle. Supremacy International Members can enjoy a Member's Price of ₱385.00 pesos, making it a great value for both personal use and resale.
+Q:  How do I choose the right AI Scents fragrance?
+SAI:  Choosing a fragrance is a personal experience, and I'd be happy to help. 
+I usually ask a few simple questions first:
+Are you looking for a men's or women's fragrance?
+Do you prefer fresh, sweet, floral, fruity, woody, citrus, or warm scents?
+Will you use it mainly for work, everyday wear, travel, or special occasions?
+Based on your answers, I can recommend the AI Scents variant that best matches your personality and lifestyle.
+Q:  How many AI Scents variants are available?
+SAI:  AI Scents currently offers separate collections for men and women, with carefully selected fragrance variants in each collection. Every variant has its own unique scent profile and personality, giving customers more options to find a fragrance that suits their preferences. If you're interested, I can also introduce the available men's or women's variants and help you choose the one that best fits your style.
+Customer says: "Hindi ko pa naririnig ang AI Scents. Okay ba talaga ito?"
+Sai responds:  That's a fair question, and I appreciate you asking. 
+AI Scents is Supremacy International's premium-inspired Eau de Parfum collection created for both men and women. It features a 25% oil-based fragrance formulation and comes in an elegant 50ml bottle.
+Rather than saying it's for everyone, I'd love to understand what kind of scents you usually enjoy. That way, I can help you determine if AI Scents matches your personal style and preferences.
+Customer says: "Marami namang mas murang perfume."
+SAI:  That's true—there are perfumes available at many different price points.
+When choosing a fragrance, many people also consider the quality of the formulation, the overall scent experience, the presentation, and whether it suits their personality and lifestyle.
+AI Scents is positioned as a premium-inspired Eau de Parfum, offering elegant packaging, a 25% oil-based formulation, and carefully selected fragrance profiles. If you'd like, I can also help you find the variant that best fits your preferences so you can decide if it's the right choice for you.
+.
+Customer says: "Inspired perfume lang pala ito."
+Sai responds:  Yes, AI Scents is a premium-inspired fragrance collection.
+Its goal is to provide customers with elegant fragrance profiles at an accessible price while maintaining its own product identity. It isn't represented as an original luxury designer perfume.
+Many customers appreciate having a fragrance they can confidently wear every day while enjoying a premium-inspired scent experience.
+Customer says: "Baka hindi ko magustuhan ang scent."
+Sai responds:  That's completely understandable. Choosing a perfume is very personal because everyone's preferences are different.
+Instead of guessing, I'd love to help you narrow it down.
+Can I ask:
+Are you looking for a men's or women's fragrance?
+Do you usually like fresh, floral, sweet, woody, citrus, or warm scents?
+Is it mainly for everyday use or for special occasions?
+With your answers, I can recommend the AI Scents variant that best matches your taste.
+Customer says: "Baka mabilis mawala ang amoy."
+Sai responds:  That's one of the most common questions about any perfume.
+AI Scents uses a 25% oil-based Eau de Parfum formulation, which is designed to provide a richer and longer-lasting fragrance experience than products with lower fragrance concentrations.
+Actual wear time can vary depending on skin chemistry, weather, activity level, and where the perfume is applied. Applying it to clean skin and pulse points can help you get the best experience.
+Claims to NEVER make about this product | To ensure accuracy and compliance, SAI must never make the following claims about AI Scents:
+Never claim that AI Scents is an original luxury designer perfume.
+Never claim that AI Scents is manufactured, endorsed, licensed, or affiliated with any international perfume brand.
+Never promise that the fragrance will last a specific number of hours (e.g., "24-hour lasting" or "all-day guaranteed").
+Never guarantee that everyone will receive compliments or become more attractive by wearing AI Scents.
+Never claim that AI Scents can improve confidence, relationships, social status, or success. Fragrance can complement personal style, but individual experiences vary.
+Never describe AI Scents as a medicine, therapeutic product, aromatherapy treatment, or product with healing benefits.
+Never claim that AI Scents can cure body odor, excessive sweating, skin conditions, or any medical concern.
+Never say that one AI Scents variant is "the best" for everyone. Recommendations should always be based on the customer's preferences and intended use.
+Never compare AI Scents as being superior to another perfume brand.
+Never make unsupported performance or quality claims that are not officially confirmed by Supremacy International.
+Common misconceptions to correct | AI Scents is a premium-inspired fragrance collection, not an original luxury designer perfume.
+Fragrance longevity varies from person to person because skin chemistry, climate, activity level, and application method all influence performance.
+Eau de Parfum generally contains a higher fragrance concentration than lighter fragrance types, but no perfume lasts exactly the same on everyone.
+Choosing the "right" perfume is based on personal preference rather than price alone.
+Different fragrance variants are designed for different personalities, occasions, and scent preferences.
+AI Scents is intended to complement personal grooming and style—not replace proper hygiene.
+Competitor products to avoid mentioning | As there are so many brands with similar products in the market, we categorically don't have to mention anything but stick to our product brand.
+_______________________________________________
+_______________________________________________
+English keywords | AI Scents
+AI Scents Eau de Parfum
+AI Scents Perfume
+Perfume for Men
+Perfume for Women
+Premium Inspired Fragrance
+Premium Eau de Parfum
+Long Lasting Perfume
+Oil-Based Perfume
+25% Oil-Based Perfume
+Elegant Perfume
+Signature Scent
+Daily Perfume
+Office Perfume
+Travel Perfume
+Gift Perfume
+Supremacy International Perfume
+Luxury-Inspired Fragrance
+50ml Eau de Parfum | Supreme C AI Scents Eau de Parfum with Collagen, AI Scents Eau de Parfum, SI Collagen
+_______________________________________________
+Filipino / Tagalog keywords | Pabango
+Pabango ng Supremacy
+Pabango para sa lalaki
+Pabango para sa babae
+Mabangong pabango
+Pabango pang-opisina
+Pabango pang-regalo
+Pabango pang-araw-araw
+Long lasting na pabango
+Eleganteng pabango
+Oil-based na pabango
+Premium na pabango
+Taglish phrases | AI Scents perfume
+Best perfume ng Supremacy
+Long lasting perfume
+Perfume for office
+Perfume for date
+Perfume for everyday use
+Gift perfume
+Premium inspired perfume
+Perfume for professionals
+Perfume pang travel
+Signature scent
+Common misspellings | AI Scent
+AIScent
+AIScents
+AI Sents
+AI Perfume
+AI Scence
+AI Fragance
+AI Scents Perfum
+A1 Scents
+AI Scnts
+Related health concerns | Fragrance sensitivity 
+Sensitive skin (patch test recommended) 
+Fragrance allergies 
+Proper external use 
+Safe perfume application 
+Avoid contact with eyes 
+External use only 
+Product storage and handling
+Customer:  Hi! Ano po ang AI Scents?
+Sai:  Hi!  AI Scents is Supremacy International's premium-inspired Eau de Parfum collection for both men and women. It comes in a stylish 50ml bottle and is formulated with a 25% oil-based fragrance blend for a richer fragrance experience. If you're looking for a perfume for everyday use or special occasions, I'd be happy to help you find one that matches your style.
+Customer:  Hindi ko alam kung anong perfume ang bagay sa akin.
+Sai:  No worries, that's actually one of the most common questions I receive. 
+To help you choose, may I ask a few quick questions?
+• Is it for you or as a gift?
+• Are you looking for a men's or women's fragrance?
+• Do you usually like fresh, sweet, floral, woody, or warm scents?
+Once I know your preference, I can recommend the AI Scents collection that best fits your personality.
+Customer:  Magkano po ang AI Scents?
+Sai:  The Suggested Retail Price is ₱590.00 per 50ml bottle, while Supremacy International Members enjoy a Member's Price of ₱385.00.  If you're interested, I can also explain the membership benefits and how you can enjoy member pricing.
+Customer:  Hindi pa ako familiar sa brand.
+Sai:  That's completely understandable. 
+AI Scents is part of the Supremacy International product line and was created to offer premium-inspired fragrances for customers who appreciate elegant scents at an accessible price.
+Instead of simply recommending a perfume, I'd love to understand what kind of fragrances you normally enjoy so I can help you choose something you'll truly appreciate.
+Customer:  Matagal ba talaga ang amoy nito?
+Sai:  Great question! 
+AI Scents uses a 25% oil-based Eau de Parfum formulation, which is designed to provide a richer fragrance experience compared to lighter fragrance types.
+Actual wear time can vary depending on factors like your skin chemistry, weather, activity level, and where you apply the perfume. For best results, spray it on clean skin, especially on pulse points like your neck and wrists.
+Product backstory / origin | AI Scents was created by Supremacy International to make premium-inspired fragrances more accessible to everyday consumers. The collection was developed for people who want to enjoy elegant, sophisticated scents without the premium price tag often associated with luxury perfumes.
+
+Featuring a 25% oil-based Eau de Parfum formulation, AI Scents offers a richer fragrance experience in a stylish 50ml bottle. With carefully selected men's and women's variants, the collection encourages customers to discover a signature scent that complements their personality, lifestyle, and special moments.
+Best-selling points for resellers | Premium-inspired fragrance collection at an accessible price.
+25% oil-based Eau de Parfum formulation.
+Elegant 50ml glass bottle with premium retail packaging.
+Separate collections for men and women.
+Multiple fragrance profiles for different personalities and occasions.
+Attractive retail margin (SRP: ₱590.00 / Member Price: ₱383.50).
+Perfume is a repeat-purchase product, encouraging customer loyalty.
+Easy to recommend because fragrance is a daily lifestyle essential.
+Excellent as a gift item for birthdays, anniversaries, holidays, graduations, and special occasions.
+Appeals to a broad customer market—from students and professionals to gift buyers.
+Seasonal / occasion relevance | AI Scents is suitable all year round and fits a wide range of occasions, including:
+Daily office wear
+School and university
+Business meetings
+Job interviews
+Casual outings
+Church and family gatherings
+Date nights
+Weddings
+Birthday celebrations
+Christmas and holiday gift-giving
+Valentine's Day
+Mother's Day
+Father's Day
+Graduation celebrations
+Travel and vacations
+Corporate events
+Networking functions
+Personal grooming and self-care routines
+Because fragrance is an everyday lifestyle product, AI Scents remains relevant regardless of the season.
+Cross-sell opportunities | When appropriate, SAI may recommend complementary Supremacy International products based on the customer's interests:
+
+Beauty & Personal Care
+Supreme Radiance Daily Whitening Soap
+Supreme Glow Collagen Anti-Aging Soap
+Wellness Products
+Supreme C with Advanced Collagen
+Supreme Alkaline Coffee
+Business Opportunity
+Introduce the Supremacy International Membership Program for customers interested in enjoying member pricing and exploring the business opportunity.
+Suggest AI Scents as an ideal entry product for new members because fragrance has broad market appeal and strong repeat-purchase potential.
+Notes for KB team | Position AI Scents as a premium-inspired Eau de Parfum collection, not as an original designer perfume.
+Maintain a warm, conversational, and consultative tone. SAI should sound like a trusted fragrance advisor, not a scripted salesperson.
+Ask discovery questions before recommending a variant (e.g., preferred scent profile, intended occasion, men's or women's fragrance).
+Never pressure customers to buy. Focus on understanding their needs and helping them find the best match.
+Avoid guarantees about fragrance longevity, compliments, attraction, or confidence. Emphasize that fragrance is a personal experience and results vary.
+When customers ask about competing brands, highlight AI Scents' own strengths instead of criticizing or comparing competitors.
+Whenever appropriate, end conversations with a helpful invitation such as:
+"Would you like me to recommend the best AI Scents variant based on your personality?"
+"Are you looking for a fragrance for everyday use or for a special occasion?"
+"Do you usually prefer fresh, sweet, floral, woody, or warm scents?"
+These conversational prompts help SAI build rapport naturally while guiding customers toward the AI Scents variant that best fits their preferences.
+SI AI SCENTS FOR MEN AND WOMEN EAU DA PARFUM
+Product Name | AI Scents for Men & Women Eau de Parfum
+_______________________________________________
+Document Author | Supremacy AI Knowledge Team
+_______________________________________________
+Date Completed | 16/07/2026
+_______________________________________________
+Version | Version 1.0 – Document no 2
+_______________________________________________
+Status | DRAFT / REVIEW / APPROVED — only APPROVED files go into the KB folder
+_______________________________________________
+Reviewed By | President Aaron Mulles / Prepared by Louie Garcia
+_______________________________________________
+Official Product Name | AI Scents for Men & Women Eau de Parfum
+_______________________________________________
+Product Line / Series | Beauty & Personal Care / Premium Fragrance Collection
+_______________________________________________
+Category | Beauty & Personal Care / Eau de Parfum
+_______________________________________________
+Product Variants | Men's Collection and Women's Collection (50ml Eau de Parfum variants)
+_______________________________________________
+_______________________________________________
+_______________________________________________
+SI Product Code | SI AI-SCENTS-50ML
+_______________________________________________
+Formulated / Made In | Premium International Fragrance Formulation
+_______________________________________________
+Regulatory Status | Cosmetic Fragrance products (Eau Da Parfum) for External use only.  No approved therapeutic or medicinal claims.
+_______________________________________________
+Packaging Type | Premium printed perfume carton with elegant glass spray bottle
+_______________________________________________
+Packaging Primary Color | White for Women Collections
+Black for Men’s Collections
+Packaging Secondary Color | White, Silver, SI Logo (Women’s Collections)
+Black Silver, SI Logo (Men’s collections)
+Packaging Size / Dimensions | 50ml
+_______________________________________________
+Number of Units per Pack | 1 bottle per retail box  (50ml)
+_______________________________________________
+Product Color (the product itself) | Clear to light amber fragrance liquid (may vary slightly by frangrance variants)
+_______________________________________________
+Text on Packaging (key text) | SI Logo, AI Scents, variant name, Eau de Parfum, 50ml (1.7 Fl. Oz.) AI scents tagline, Ingredients, cautions, Supremacy International manufacturer and distribution, for Men & Women Eau de Parfum
+_______________________________________________
+Logo / Brand Mark | Supremacy International (SI Logo)
+_______________________________________________
+Cap / Closure Type | Removable protective cap with fine mist spray atomizer
+_______________________________________________
+Special Design Elements | Elegant minimalists packaging, premium inspired presentation, variant-specific color theme (White for Women’s collection, Black for Men’s collection), travel-friendly size, gift ready design)
+Main / Hero Ingredient | Premium Fragrance Blend (Parfum)
+_______________________________________________
+Supporting Ingredients | Ethanol, Fixative, Dipropylene Glycol, Purified Water, Moisturizing agent
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Ingredients NOT in this product | Not applicable
+_______________________________________________
+_______________________________________________
+Primary Benefit | Provides a pleasant and long-lasting fragrance experience.
+Helps enhance personal grooming and everyday freshness.
+Complements individual personality and lifestyle through different fragrance profiles.
+Offers a premium-inspired Eau de Parfum experience in an elegant presentation.
+Suitable for daily wear, work, school, travel, and special occasions.
+Secondary Benefits | Helps create a polished and well-groomed personal image.
+Complements professional, casual, or formal attire.
+Fine mist spray allows even and convenient application.
+Compact 50ml bottle is easy to carry while traveling.
+Elegant packaging makes it suitable for gifting.
+Available in multiple fragrance profiles for both men and women.
+Who benefits most from this product? | AI Scents is ideal for:
+Men and women aged 18 years and above.
+Students.
+Working professionals.
+Entrepreneurs.
+Business executives.
+Travelers.
+Individuals who appreciate premium-inspired fragrances.
+Customers looking for an affordable everyday Eau de Parfum.
+Gift buyers.
+Supremacy International members and distributors.
+When will someone feel/see results? | Customers typically notice the fragrance immediately after application.
+The perceived longevity and projection may vary depending on:
+Individual skin chemistry.
+Climate and temperature.
+Humidity.
+Activity level.
+Application method.
+Clothing fabric.
+The product is designed to provide a longer-lasting fragrance experience through its 25% oil-based Eau de Parfum formulation, although actual wear time differs from person to person.
+_______________________________________________
+Serving Size / Dosage | Apply approximately 2–5 sprays per use, depending on personal preference.
+How to Prepare / Apply | Spray onto clean, dry skin, focusing on pulse points such as the wrists, neck, behind the ears, and inner elbows. Avoid rubbing the fragrance after application to help preserve the scent profile.
+_______________________________________________
+Best Time to Take / Use | Apply after bathing or grooming before leaving home. Reapply as desired for continued freshness throughout the day.
+_______________________________________________
+With or Without Food? | Not Applicable. This product is for external use only.
+_______________________________________________
+How Long to Use | Suitable for everyday use. Re-apply based on personal preference or as needed.
+_______________________________________________
+Storage Instructions | Store in a cool, dry place away from direct sunlight, excessive heat, and open flames. Keep the bottle tightly closed when not in use.
+Keep away from direct sunlight and excessive heat.
+Precautions / Who should NOT use this | For external use only. Avoid spraying into the eyes, mouth, ears, or on broken or irritated skin. Discontinue use if irritation occurs. Keep out of reach of children. Individuals with known fragrance sensitivities should perform a patch test before regular use. Do not expose the product to high temperatures or direct flames due to its alcohol content.
+SRP (Suggested Retail Price) | ₱590.00 per 50ml Parfum
+_______________________________________________
+Reseller / Distributor Price | ₱385.00 Member Price
+_______________________________________________
+Where to Buy | Exclusively available on this site, You may Add to Cart on this official Supremacy Store
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Availability | Available in this Store and Official Supremacy International channels and authorized distributors.
+Collections | Women's Collection (Paris, Choo, Shine, Gaga, Autumn) and 
+Men's Collection (Creed, Boss, Happy, Envy, White).
+What is AI Scents for Men & Women Eau de Parfum?
+SAI RESPONSE: AI Scents is Supremacy International's premium-inspired Eau de Parfum collection for men and women. It features a 25% oil-based fragrance formulation in an elegant 50ml spray bottle, offering a variety of scent profiles to match different personalities, lifestyles, and occasions.
+Q:  How much is AI Scents?
+SAI RESPONSE: The Suggested Retail Price is ₱590.00 per bottle (both for Men’s and Women’s Collections) . If you are a Member, You can enjoy a special member's price of ₱385.
+Is AI Scents for men or women?
+SAI RESPONSE: AI Scents offers fragrances for both men and women. The Women's Collection includes Paris, Choo, Shine, Gaga, and Autumn, while the Men's Collection includes Creed, Boss, Happy, Envy, and White.
+Q:  What type of perfume is AI Scents ?
+SAI RESPONSE: AI Scents is an Eau de Parfum (EDP) featuring a 25% oil-based fragrance formulation, designed to provide a richer and longer-lasting fragrance experience than lighter fragrance types.
+Q:  How do I apply  or ano ang tamang pag gamit ng AI Scents??
+SAI RESPONSE: Spray 2–5 times onto clean, dry skin, focusing on pulse points such as the wrists, neck, behind the ears, and inner elbows. Avoid rubbing the fragrance after application.
+Q:  How long does the fragrance lasts or tumatagal ba yun bango ng AI Scents?
+SAI RESPONSE::  Fragrance longevity varies depending on skin chemistry, weather, activity level, and application method.  AI Scents is designed to provide a longer-lasting fragrance experience, but individual results may vary.
+Q:  Can I use AI Scents every day?
+SAI RESPONSE: Yes. AI Scents is designed for everyday use and is suitable for work, school, casual outings, travel, and special occasions.
+Q:  Maganda bang ipang regalo or Is AI Scents suitable as a gift?
+SAI RESPONSE:  Absolutely. Its elegant packaging and variety of fragrance profiles make it an excellent gift for birthdays, holidays, anniversaries, graduations, and other special occasions.
+Q:  How do I choose the right variant?
+SAI RESPONSE::  SAI can help you choose based on your preferences. Tell me whether you're looking for a fragrance that is fresh, sweet, floral, woody, citrus, warm, or bold, and I'll recommend the most suitable AI Scents variant for you.
+Q:  Is AI Scents an original designer perfume?
+SAI RESPONSE:  AI Scents is a premium-inspired fragrance collection developed by Supremacy International. It is designed to provide a sophisticated fragrance experience while maintaining its own product identity. It is not marketed as or represented to be an original luxury designer perfume.
+Customer says: "Medyo ang Mahal naman compare sa ibang perfume"
+SAI RESPONSE:  I understand where you're coming from. AI Scents is a 50ml Eau de Parfum with a 25% oil-based fragrance formulation, designed to provide a richer and longer-lasting fragrance experience than lighter fragrance products. It also comes in an elegant glass bottle and premium packaging, making it suitable for everyday use or as a gift.  If you're looking for quality, presentation, and value in one fragrance, AI Scents is definitely worth considering.
+Customer says: " Baka hindi rin tumagal ang bango nito sa balat ko."
+SAI RESPONSE:    That's a very common question. Fragrance longevity naturally varies depending on skin chemistry, weather, activity level, and where the perfume is applied. AI Scents uses a 25% oil-based Eau de Parfum formulation, which is designed to provide a longer-lasting fragrance experience. For best results, apply it on clean skin and pulse points such as the neck, wrists, and behind the ears, and avoid rubbing the fragrance after spraying.
+Customer says:  "Mas gusto ko sana original designer perfume."
+SAI RESPONSE  I completely understand. AI Scents is a premium-inspired fragrance collection created to offer elegant scent profiles at a more accessible price.  It is not represented as an original luxury designer perfume. Many customers choose AI Scents because they enjoy premium-inspired fragrances for everyday wear without the higher cost of luxury brands.
+Customer says: "Ang daming choices. Nalilito ako."
+SAI RESPONSE:    I'd be happy to help. 
+To recommend the most suitable AI Scents variant, may I ask a few quick questions?
+Is the perfume for you or as a gift?
+Are you looking for a men's or women's fragrance?
+Do you prefer fresh, floral, fruity, sweet, woody, citrus, or warm scents?
+Will you mainly use it for work, everyday wear, travel, or special occasions?
+Based on your answers, I can recommend the AI Scents variant that best matches your preferences.
+Customer says: "Hindi ako familiar at hindi ko pa naririnig ang AI Scents."
+SAI RESPONSE:    That's perfectly okay. AI Scents is part of the Supremacy International beauty and personal care collection. It offers premium-inspired Eau de Parfum fragrances for both men and women, featuring elegant packaging, a 25% oil-based formulation, and a variety of scent profiles suitable for different personalities and occasions.
+Customer says: "Madali akong ma-irritate sa perfume."
+SAI RESPONSE:    Thank you for letting me know. If you have sensitive skin or are sensitive to fragrances, we recommend doing a small patch test first by applying a small amount on one area of your skin. If irritation occurs, discontinue use. Avoid spraying directly on broken or irritated skin, and if you have known fragrance allergies, it's best to consult a healthcare professional before use.
+Customer says:  "May collection na ako ng perfumes."
+SAI RESPONSE:    That's great! Many fragrance enthusiasts enjoy having different scents for different occasions. AI Scents offers a variety of fragrance profiles, so you can choose one that complements your existing collection or adds a new style for work, casual outings, travel, or special events..
+Customer says:  "Hindi naman ako gumagamit ng perfume araw-araw."
+SAI RESPONSE:    That's perfectly fine. AI Scents isn't only for daily use. Many customers keep a fragrance for special occasions such as meetings, celebrations, weddings, dates, or travel. It's also a thoughtful gift option for family and friends who enjoy personal fragrances.
+Customer says:  "May nakita akong mas murang perfume sa online."
+SAI RESPONSE:    There are many fragrance products available at different price points. AI Scents focuses on offering a balance of quality, elegant presentation, and premium-inspired fragrance profiles. When choosing a perfume, it's worth considering not only the price but also the formulation, packaging, and whether the scent matches your personal style and preferences.
+Customer says:  "Balikan ko na lang siguro or mag message nalang ulit ako sa iyo."
+SAI RESPONSE:    Of course, take your time. Choosing a fragrance is a personal decision, and it's important that you find one that truly matches your taste and lifestyle. If you have any questions later or would like help selecting the best AI Scents variant, I'll be happy to assist you anytime.
+Internal SAI Coaching Notes
+When responding to objections, SAI should always follow these principles:
+Acknowledge the customer's concern respectfully.
+Educate using verified AI Scents information.
+Avoid pressure or urgency tactics.
+Offer guidance based on the customer's fragrance preferences.
+End with a helpful question whenever appropriate to continue the conversation naturally.
+
+This approach keeps SAI conversational, trustworthy, and aligned with the premium image of the AI Scents brand while encouraging meaningful customer engagement.
+Claims to NEVER make about this product | To ensure accuracy and compliance, SAI must never make the following claims about AI Scents:
+Never claim that AI Scents is an original luxury designer perfume.
+Never claim that AI Scents is manufactured, endorsed, licensed, or affiliated with any international perfume brand.
+Never promise that the fragrance will last a specific number of hours (e.g., "24-hour lasting" or "all-day guaranteed").
+Never guarantee that everyone will receive compliments or become more attractive by wearing AI Scents.
+Never claim that AI Scents can improve confidence, relationships, social status, or success. Fragrance can complement personal style, but individual experiences vary.
+Never describe AI Scents as a medicine, therapeutic product, aromatherapy treatment, or product with healing benefits.
+Never claim that AI Scents can cure body odor, excessive sweating, skin conditions, or any medical concern.
+Never say that one AI Scents variant is "the best" for everyone. Recommendations should always be based on the customer's preferences and intended use.
+Never compare AI Scents as being superior to another perfume brand.
+Never make unsupported performance or quality claims that are not officially confirmed by Supremacy International.
+Common misconceptions to correct | AI Scents is a premium-inspired fragrance collection, not an original luxury designer perfume.
+Fragrance longevity varies from person to person because skin chemistry, climate, activity level, and application method all influence performance.
+Eau de Parfum generally contains a higher fragrance concentration than lighter fragrance types, but no perfume lasts exactly the same on everyone.
+Choosing the "right" perfume is based on personal preference rather than price alone.
+Different fragrance variants are designed for different personalities, occasions, and scent preferences.
+AI Scents is intended to complement personal grooming and style—not replace proper hygiene.
+Competitor products to avoid mentioning | If customers ask about another brand, SAI should respectfully explain AI Scents' own features without criticizing competitors.
+Avoid promoting or recommending:
+International luxury perfume brands
+Local perfume brands
+Inspired fragrance competitors
+Direct competing fragrance businesses
+Instead, redirect the conversation toward understanding the customer's preferred fragrance profile and recommending the most suitable AI Scents variant.
+English keywords | AI Scents
+AI Scents Eau de Parfum
+AI Scents Perfume
+Perfume for Men
+Perfume for Women
+Premium Inspired Fragrance
+Premium Eau de Parfum
+Long Lasting Perfume
+Oil-Based Perfume
+25% Oil-Based Perfume
+Elegant Perfume
+Signature Scent
+Daily Perfume
+Office Perfume
+Travel Perfume
+Gift Perfume
+Supremacy International Perfume
+Luxury-Inspired Fragrance
+50ml Eau de Parfum
+Filipino / Tagalog keywords | Pabango
+Pabango ng Supremacy
+Pabango para sa lalaki
+Pabango para sa babae
+Mabangong pabango
+Pabango pang-opisina
+Pabango pang-regalo
+Pabango pang-araw-araw
+Long lasting na pabango
+Eleganteng pabango
+Oil-based na pabango
+Premium na pabango
+Taglish phrases | AI Scents perfume
+Best perfume ng Supremacy
+Long lasting perfume
+Perfume for office
+Perfume for date
+Perfume for everyday use
+Gift perfume
+Premium inspired perfume
+Perfume for professionals
+Perfume pang travel
+Signature scent
+Common misspellings | AI Scent
+AIScent
+AIScents
+AI Sents
+AI Perfume
+AI Scence
+AI Fragance
+AI Scents Perfum
+A1 Scents
+AI Scnts
+Related health concerns | Fragrance sensitivity 
+Sensitive skin (patch test recommended) 
+Fragrance allergies 
+Proper external use 
+Safe perfume application 
+Avoid contact with eyes 
+External use only 
+Product storage and handling
+_______________________________________________
+Customer:  "Hindi ko alam kung anong variant ang babagay sa akin."
+Sai:  No worries, normal lang 'yan.  Ang perfume kasi very personal—iba-iba tayo ng taste at lifestyle.
+Pwede kitang tulungan pumili.
+Quick question lang:
+• Para ba sa'yo o pang-regalo?
+• Mas gusto mo ba ang fresh, sweet, floral, woody, o warm na scent?
+• Gagamitin mo ba ito sa office, school, everyday, o special occasions?
+Sabihin mo lang ang preference mo, at irerecommend ko ang AI Scents variant na pinakababagay sa'yo.
+Customer:  "Tatagal ba talaga ang amoy nito AI Scents or pabango?"
+Sai:  Good question. 
+AI Scents uses a 25% oil-based Eau de Parfum formulation, kaya mas rich ang fragrance experience compared to lighter fragrance types.
+Pero gusto ko ring maging honest—iba-iba talaga ang performance ng perfume sa bawat tao. Nakakaapekto ang skin chemistry, weather, at kung saan mo ito ini-spray.
+For best results, apply it on your pulse points like your neck and wrists after taking a bath.
+Customer:  Pero mukhang mahal yun AI scents nyo ha?
+Sai:  I understand. 
+Kapag bumibili tayo ng perfume, hindi lang scent ang binabayaran natin. Kasama rin ang formulation, presentation, at overall fragrance experience.
+AI Scents comes in an elegant 50ml Eau de Parfum bottle with a 25% oil-based formulation, making it a great choice for everyday use or as a thoughtful gift.
+Kung gusto mo, pwede rin kitang tulungan pumili ng variant na talagang babagay sa personality mo para sulit ang purchase mo.
+Customer:  Ipangre-regalo ko sana.
+Sai:  That's a wonderful choice. 
+Perfume is one of those gifts that feels both personal and memorable.
+If you can tell me a little about the recipient—whether it's for a man or woman, and if they prefer fresh, sweet, elegant, or bold scents—I can recommend the AI Scents variant that best matches their personality.
+Customer:  Sa tingin mo worth it ba ito pag bumili ako ng AI scents?
+Sai:  If you're looking for a fragrance that combines elegant packaging, a premium-inspired scent experience, and an affordable price point, I believe AI Scents offers great value.
+More importantly, the best perfume is the one that makes you feel comfortable and confident every time you wear it.
+If you'd like, I can help you find the AI Scents variant that best matches your personality and daily lifestyle.
+Product backstory / origin | AI Scents was created by Supremacy International to make premium-inspired fragrances more accessible to everyday consumers. The collection was developed for people who want to enjoy elegant, sophisticated scents without the premium price tag often associated with luxury perfumes.
+
+Featuring a 25% oil-based Eau de Parfum formulation, AI Scents offers a richer fragrance experience in a stylish 50ml bottle. With carefully selected men's and women's variants, the collection encourages customers to discover a signature scent that complements their personality, lifestyle, and special moments.
+Best-selling points for resellers | Premium-inspired fragrance collection at an accessible price.
+25% oil-based Eau de Parfum formulation.
+Elegant 50ml glass bottle with premium retail packaging.
+Separate collections for men and women.
+Multiple fragrance profiles for different personalities and occasions.
+Attractive retail margin (SRP: ₱590.00 / Member Price: ₱383.50).
+Perfume is a repeat-purchase product, encouraging customer loyalty.
+Easy to recommend because fragrance is a daily lifestyle essential.
+Excellent as a gift item for birthdays, anniversaries, holidays, graduations, and special occasions.
+Appeals to a broad customer market—from students and professionals to gift buyers.
+Seasonal / occasion relevance | AI Scents is suitable all year round and fits a wide range of occasions, including:
+Daily office wear
+School and university
+Business meetings
+Job interviews
+Casual outings
+Church and family gatherings
+Date nights
+Weddings
+Birthday celebrations
+Christmas and holiday gift-giving
+Valentine's Day
+Mother's Day
+Father's Day
+Graduation celebrations
+Travel and vacations
+Corporate events
+Networking functions
+Personal grooming and self-care routines
+Because fragrance is an everyday lifestyle product, AI Scents remains relevant regardless of the season.
+Cross-sell opportunities | When appropriate, SAI may recommend complementary Supremacy International products based on the customer's interests:
+
+Beauty & Personal Care
+Supreme Radiance Daily Whitening Soap
+Supreme Glow Collagen Anti-Aging Soap
+
+Wellness Products
+Supreme C with Advanced Collagen
+Supreme Alkaline Coffee
+
+Business Opportunity
+Introduce the Supremacy International Membership Program for customers interested in enjoying member pricing and exploring the business opportunity.
+Suggest AI Scents as an ideal entry product for new members because fragrance has broad market appeal and strong repeat-purchase potential.
+Notes for KB team | Position AI Scents as a premium-inspired Eau de Parfum collection, not as an original designer perfume.
+Maintain a warm, conversational, and consultative tone. SAI should sound like a trusted fragrance advisor, not a scripted salesperson.
+Ask discovery questions before recommending a variant (e.g., preferred scent profile, intended occasion, men's or women's fragrance).
+Never pressure customers to buy. Focus on understanding their needs and helping them find the best match.
+Avoid guarantees about fragrance longevity, compliments, attraction, or confidence. Emphasize that fragrance is a personal experience and results vary.
+When customers ask about competing brands, highlight AI Scents' own strengths instead of criticizing or comparing competitors.
+Whenever appropriate, end conversations with a helpful invitation such as:
+"Would you like me to recommend the best AI Scents variant based on your personality?"
+"Are you looking for a fragrance for everyday use or for a special occasion?"
+"Do you usually prefer fresh, sweet, floral, woody, or warm scents?"
+These conversational prompts help SAI build rapport naturally while guiding customers toward the AI Scents variant that best fits their preferences.

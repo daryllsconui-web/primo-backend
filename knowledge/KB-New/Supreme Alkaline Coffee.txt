@@ -1,0 +1,143 @@
+SUPREMACY INTERNATIONAL
+SAI AI AGENT KNOWLEDGE BASE
+PRODUCT: Supreme Alkaline Coffee Mix Premium Blend
+SECTION 0 — DOCUMENT INFORMATION
+SECTION 1 — PRODUCT IDENTITY
+SECTION 2 — VISUAL APPEARANCE
+SECTION 3 — KEY INGREDIENTS
+SECTION 4 — PRODUCT BENEFITS
+SECTION 5 — HOW TO USE
+SECTION 6 — PRICING & AVAILABILITY
+SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
+
+SECTION 8 — OBJECTIONS & SAI RESPONSES
+
+SECTION 9 — WHAT SAI MUST NOT SAY
+
+SECTION 10 — SEARCH KEYWORDS
+
+SECTION 11 — CONVERSATION EXAMPLES
+
+SECTION 12 — ADDITIONAL NOTES & CONTEXT
+
+Product Name | Supreme Alkaline Coffee Mix Premium Blend
+Document Author | Supremacy AI Knowledge Team
+Date Completed | 14/07/2026
+Version | v1.0
+Status | APPROVED
+Reviewed By | Supremacy Product Team
+Official Product Name | Supreme Alkaline Coffee Mix Premium Blend
+Product Line / Series | Wellness Beverages
+Category | Alkaline Coffee Mix
+Product Variants
+SI Product Code
+Formulated / Made In | Locally Made and Toll Manufactured
+Regulatory Status | FDA Registered
+No Approved Therapeutic Claims
+Packaging Type | Rectangular carton box
+Packaging Size | 10 sachets x 15g
+Logo | Supremacy International (SI)
+Hero Ingredients | Coffee Powder; Alkaline Powder; Garcinia Cambogia
+Supporting | Mangosteen; Moringa; Tongkat Ali
+Primary Benefit | Healthier coffee alternative with botanical ingredients.
+Who Benefits | Coffee drinkers seeking a wellness coffee option.
+Serving | 1 sachet (15g)
+Preparation | Mix with 180 ml hot water and stir.
+Storage | Store in a cool, dry place.
+SRP | ₱590.00
+Distributor Price | ₱385.00
+Q1
+
+What is Supreme Alkaline Coffee Mix Premium Blend? | A: Supreme Alkaline Coffee Mix Premium Blend is a food supplement instant alkaline coffee that combines premium coffee with carefully selected botanical ingredients including Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, and Alkaline Powder. It is designed to complement a healthy lifestyle while allowing you to enjoy the taste and aroma of coffee.
+Q2
+
+Main ingredients? | A: Ang pangunahing ingredients nito ay Premium Coffee, Garcinia Cambogia Extract Powder, Mangosteen Extract Powder, Moringa Powder, Tongkat Ali Extract Powder, at Alkaline Powder, kasama ang iba pang ingredients na bumubuo sa premium coffee blend.
+Q3 | How to prepare? 
+A: Mix one sachet with 180 ml hot water.
+Q4 | Daily use? 
+
+A: Follow the serving recommendation.
+Q5 | Can I drink daily? 
+
+A: Yes, as part of a healthy lifestyle.
+Q6 | Difference? 
+A: Carefully selected formulation.
+Q7 | Price? 
+A: ₱590.00.
+Q8 | Where to buy? 
+A: Available and exclusive inside this Official Supremacy Store.
+Q9 | When will I notice results? 
+A: Ang experience ng bawat tao ay magkakaiba. Maaaring maapektuhan ito ng inyong overall health, lifestyle, pagkain, at consistency ng paggamit. Ang produktong ito ay food supplement at hindi gamot.
+Q10 | With maintenance?
+ A: Consult your doctor first.
+A: Kung kayo ay umiinom ng maintenance medication, buntis, nagpapasuso, o may existing medical condition, mas mainam na kumonsulta muna sa inyong doktor o healthcare professional bago gumamit ng anumang food supplement.
+Mahal | Value comes from its carefully selected formulation.
+
+Response: "Naiintindihan ko po ang concern ninyo. Ang value ng Supreme Alkaline Coffee Mix ay hindi lamang sa pagiging coffee, kundi sa kombinasyon ng premium coffee at carefully selected botanical ingredients tulad ng Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, at Alkaline Powder sa isang convenient sachet."
+May katulad | The formulation combines multiple botanical ingredients.
+
+Response: "Tama po, maraming coffee products ang available sa market. Ang kaibahan ng Supreme Alkaline Coffee Mix ay ang carefully selected combination ng premium coffee at botanical ingredients sa isang formulation. Ang value nito ay nasa synergy ng buong formulation, kung saan ang bawat ingredient ay pinili upang mag-complement sa isa't isa bilang bahagi ng isang wellness-oriented coffee."
+Ordinary coffee | Contains added botanical ingredients.
+
+Response: "Mukha man po itong ordinaryong coffee, ang formulation nito ay may kasamang Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, at Alkaline Powder. Kaya bukod sa coffee experience, mayroon din itong botanical ingredients bilang bahagi ng wellness-focused formulation."
+Maintenance | Consult your healthcare professional.
+Response: "Kung mayroon po kayong maintenance medication o existing medical condition, inirerekomenda naming kumonsulta muna sa inyong doktor bago gumamit ng anumang food supplement."
+No effect yet | Results vary and healthy lifestyle matters.
+
+Response: "Magkakaiba po ang response ng bawat tao. Ang consistency ng paggamit, balanced diet, regular exercise, at healthy lifestyle ay mahalagang bahagi ng inyong wellness journey."
+Guardrails | Never claim cures, guaranteed weight loss, guaranteed results, disease prevention, or replacement of medicines.
+
+Claims to NEVER make Do not claim it cures diseases. 
+Do not claim guaranteed weight loss. 
+Do not claim it replaces prescribed medicines. 
+Do not claim it prevents diseases. 
+Do not claim guaranteed results. 
+Do not describe it as a medicine. Common misconceptions Food supplements are not medicines. Individual results vary. 
+Healthy lifestyle habits remain important. Competitor products to avoid mentioning (Leave Blank)
+Keywords | Supreme Alkaline Coffee, Wellness Coffee, Garcinia Coffee, Coffee with Garcinia, Functional Coffee, Plant-based ingredients
+Customer Ano ang Supreme Alkaline Coffee? | SAI "Ito ay isang premium alkaline coffee mix na pinagsasama ang premium coffee at botanical ingredients tulad ng Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, at Alkaline Powder. Dinisenyo ito bilang bahagi ng isang healthy lifestyle habang nae-enjoy pa rin ang masarap na lasa at aroma ng coffee."
+Customer Pwede ba ito araw-araw? | SAI "Oo po, maaari itong isama sa inyong araw-araw na wellness routine kung susundin ang recommended serving sa product packaging at bahagi ito ng balanced diet at healthy lifestyle."
+Customer Ano ang pinagkaiba nito sa ordinaryong coffee? | SAI "Bukod sa premium coffee, may carefully selected botanical ingredients ito gaya ng Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, at Alkaline Powder. Ang mga ingredients na ito ay pinagsama upang makabuo ng isang wellness-oriented coffee formulation."
+Customer Makakapagpapayat ba ito? | SAI "Hindi ko po maaaring sabihin iyon. Ang Supreme Alkaline Coffee Mix ay isang food supplement at hindi gamot. Wala itong approved therapeutic claim para sa pagpapagamot o garantisadong weight loss. Ang healthy weight management ay nakasalalay pa rin sa balanced diet, regular exercise, at healthy lifestyle."
+Backstory | Developed for coffee lovers seeking a wellness-oriented coffee.
+
+Supreme Alkaline Coffee Mix Premium Blend was developed for individuals who love coffee but are also looking for a more wellness-oriented beverage to complement their daily lifestyle. Rather than creating an ordinary instant coffee, Supremacy International formulated this product by combining premium coffee with carefully selected botanical ingredients such as Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, and Alkaline Powder in one convenient sachet.
+
+The philosophy behind the product is to provide coffee lovers with a premium coffee experience while incorporating a carefully selected botanical formulation into their daily routine. The product is designed to complement a balanced diet, regular physical activity, adequate hydration, and healthy lifestyle habits. It is intended as a food supplement and not as a medicine, making it suitable for individuals seeking a convenient wellness beverage without sacrificing the rich taste and aroma of coffee.
+Best-selling Points for Resellers | Premium coffee blended with carefully selected botanical ingredients.
+Convenient all-in-one formulation in easy-to-prepare sachets.
+Contains Garcinia Cambogia, Mangosteen, Moringa, Tongkat Ali, and Alkaline Powder.
+Suitable for busy professionals, entrepreneurs, students, and coffee lovers.
+Wellness-oriented coffee that fits naturally into a daily routine.
+Great conversation starter for customers interested in healthier lifestyle choices.
+Excellent repeat-purchase product because coffee is commonly consumed every day.
+Cross-sell | Supreme C with Advanced Collagen; other Supremacy products.
+Customer Goal: Daily Wellness Support
+Recommend:
+➡ Supreme C with Advanced Collagen
+Reason:
+Provides Vitamin C, Collagen Type I & III, Rosehip, and Zinc to complement the customer's daily wellness routine.
+
+Customer Goal: Complete Botanical Wellness
+Recommend:
+➡ Ashi Supreme
+Reason:
+Provides additional plant-based botanical ingredients that complement a wellness-focused lifestyle.
+
+Customer Goal: Beauty and Wellness
+Recommend:
+➡ Supreme Alkaline Coffee + Supreme C with Advanced Collagen
+Reason:
+A combination that supports a customer's daily wellness routine while adding Vitamin C and Collagen supplementation.
+Seasonal / Occasion Relevance | Recommended for year-round daily consumption as part of a healthy lifestyle.
+Popular during New Year wellness campaigns and healthy lifestyle resolutions.
+Ideal during the rainy season when customers focus more on overall wellness.
+Excellent addition to holiday gift bundles, corporate giveaways, and wellness promotions.
+Suitable for travel packs, office pantry supplies, and membership welcome kits.
+Frequently recommended during health awareness events and Supremacy wellness campaigns.
+Notes | Use educational, conversational, FDA-compliant responses.
+
+Always communicate in a warm, respectful, educational, and conversational tone.
+Use simple English and natural Taglish appropriate for everyday Filipino customers.
+Educate first before recommending products.
+Build trust by answering honestly and avoiding exaggerated claims.

@@ -1,0 +1,365 @@
+SUPREMACY INTERNATIONAL
+SAI AI AGENT — KNOWLEDGE BASE TEMPLATE
+Use one copy of this template per product. Fill in all sections completely.
+
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 0 — DOCUMENT INFORMATION
+⚠  Complete this section before filling in anything else.
+
+
+
+
+
+
+  SECTION 1 — PRODUCT IDENTITY
+💡  Sai uses this section to confirm product names and avoid inventing products that don't exist.
+
+
+
+
+
+
+
+  SECTION 2 — VISUAL APPEARANCE
+💡  This prevents Sai from guessing colors and packaging details wrong. Fill from actual product photos only.
+⚠  Do NOT guess. If you cannot see it clearly in an official photo, leave it blank.
+
+
+
+
+
+
+
+
+
+
+  SECTION 3 — KEY INGREDIENTS
+💡  List only confirmed ingredients from official documents, lab results, or product labels.
+⚠  Never list ingredients from competitor sites or assumptions. Only write what is officially confirmed.
+
+
+
+
+  SECTION 4 — PRODUCT BENEFITS
+⚠  Benefits must be based on official SI claims only. No benefits from competitor descriptions or assumptions.
+
+
+
+
+  SECTION 5 — HOW TO USE
+💡  This is one of the most common questions customers ask Sai. Be as specific and practical as possible.
+
+
+
+
+
+
+
+  SECTION 6 — PRICING & AVAILABILITY
+⚠  Only fill this if prices are officially published and stable. Leave blank if prices vary — Sai will redirect to SI team.
+💡  Sai will NEVER guess prices. If left blank, Sai will say "For pricing, contact the SI team directly."
+
+
+
+
+  SECTION 7 — FREQUENTLY ASKED QUESTIONS (FAQ)
+💡  This is the most powerful section for Sai. Write questions exactly the way customers ask them — in Taglish, English, or Filipino. Minimum 8 Q&A pairs per product.
+⚠  Answers must be factual and confirmed. Never write an answer you are not 100% sure about.
+Write the question as a customer would naturally ask it — casual, conversational, Taglish is okay.
+
+▌ Q&A Pair 1
+
+▌ Q&A Pair 2
+
+▌ Q&A Pair 3
+
+▌ Q&A Pair 4
+
+▌ Q&A Pair 5
+
+▌ Q&A Pair 6
+
+▌ Q&A Pair 7
+
+▌ Q&A Pair 8
+
+▌ Q&A Pair 9
+
+▌ Q&A Pair 10
+
+Add more Q&A pairs on a separate page if needed. The more, the better.
+  SECTION 8 — OBJECTIONS & SAI'S RESPONSES
+💡  These are common reasons customers hesitate. Write Sai's ideal response — honest, empathetic, not pushy.
+⚠  Do NOT write responses that pressure the customer or make promises you cannot keep.
+▌ Objection: "Mahal naman"
+
+▌ Objection: "May katulad naman sa tindahan"
+
+▌ Objection: "Hindi ko pa napapansin ang effect"
+
+▌ Objection: "Takot ako sa supplements / side effects"
+
+▌ Objection: "Magtatanong muna ako sa doktor ko"
+
+Add more objection rows above as needed for this product.
+  SECTION 9 — WHAT SAI MUST NOT SAY ABOUT THIS PRODUCT
+💡  List anything off-limits for this specific product — wrong claims, sensitive comparisons, unconfirmed benefits.
+⚠  This section protects SI from liability and protects customers from misinformation.
+
+
+
+  SECTION 10 — SEARCH KEYWORDS
+💡  These words help Sai find this document when customers ask questions in different ways. Include Filipino, English, and Taglish versions.
+
+
+
+
+
+  SECTION 11 — CONVERSATION EXAMPLES
+💡  Show exactly how Sai should sound when answering questions about this product. These become Sai's reference for tone and phrasing.
+⚠  Write Sai's replies in a natural, conversational tone — not like a brochure. Taglish is fine.
+Write at least 4 full conversation examples below. Show how Sai handles: product questions, objections, health-related questions, and referrals to SI team.
+
+▌ Example 1
+
+▌ Example 2
+
+▌ Example 3
+
+▌ Example 4
+
+▌ Example 5
+
+
+
+
+  SECTION 12 — ADDITIONAL NOTES & CONTEXT
+💡  Anything else Sai should know about this product that doesn't fit the sections above.
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+Supremacy International — Sai AI Knowledge Base Template  |  For internal use only
+Only APPROVED and fully completed documents should be added to the AI knowledge folder.
+📋  HOW TO USE THIS TEMPLATE
+
+1. Fill in ONE product per file. Do not combine multiple products in one document.
+2. Use ONLY confirmed, official information. Never guess or copy from competitor sites.
+3. The FAQ section is the most important — write at least 8 Q&A pairs per product.
+4. Write answers the way a real person talks — not like a brochure.
+5. Save the completed file as a .txt file (plain text) when done, then add it to the KB folder.
+6. Never include personal names, phone numbers, addresses, or Viber/SMS contacts.
+7. Leave a field blank (do not guess) if you do not have confirmed information.
+Product Name | Supreme C with Advanced Collagen
+_______________________________________________
+Document Author | Supremacy AI Knowledge Team
+_______________________________________________
+Date Completed | 14/07/2026
+_______________________________________________
+Version | e.g. v1.0 — increment when you update this file
+_______________________________________________
+Status | DRAFT / REVIEW / APPROVED — only APPROVED files go into the KB folder
+_______________________________________________
+Reviewed By | Pres Aaron Mulles
+_______________________________________________
+Official Product Name | Supreme C with Advanced Collagen
+_______________________________________________
+Product Line / Series | Health and wellness, supplements
+_______________________________________________
+Category | Food Supplements, Health and Wellness
+_______________________________________________
+Product Variants | One variant only - 30 capsules per bottle, 500mg per capsules
+_______________________________________________
+_______________________________________________
+_______________________________________________
+SI Product Code | Supreme C with Advance Collagen
+_______________________________________________
+Formulated / Made In | Formulated in Philippines
+_______________________________________________
+Regulatory Status | FDA Registered and Approved, No Therapeutic Claims
+_______________________________________________
+Packaging Type | Plastic bottle with white screw cap
+_______________________________________________
+Packaging Primary Color | White and Orange color
+_______________________________________________
+Packaging Secondary Color | White with Orange, Yellow Orange, Supremacy Logo
+_______________________________________________
+Packaging Size / Dimensions | 500mg
+_______________________________________________
+Number of Units per Pack | 30 capsules per bottle
+_______________________________________________
+Product Color (the product itself) | Orange
+_______________________________________________
+Text on Packaging (key text) | Supreme C Advanced Collagen
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Logo / Brand Mark | Supremacy International (SI Logo)
+_______________________________________________
+Cap / Closure Type | White ribbed screw cap
+_______________________________________________
+Special Design Elements | Sodium Ascorbate (Vitamin C)
+_______________________________________________
+_______________________________________________
+Main / Hero Ingredient | Sodium Ascorbate (Vitamin C)
+_______________________________________________
+Supporting Ingredients | Collagen Type 1 and 3 Calcium Ascorbate Rosehip
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Full Ingredient List | Sodium Ascorbate Calcium Ascorbate Collagen Type 1
+and 3 Rosehip Zinc
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Ingredients NOT in this product
+_______________________________________________
+_______________________________________________
+Primary Benefit | Supports inner health and helps strengthen immunity.
+_______________________________________________
+Secondary Benefits | Supports antioxidant protection.
+Supports healthy skin.
+Supports healthy nails.
+Supports healthy hair.
+Provides Vitamin C
+and Collagen supplementation.
+Who benefits most from this product? | Adults looking to support their
+daily Vitamin C intake.
+Individuals who want antioxidant support.
+People looking to support healthy skin, nails and hair.
+When will someone feel/see results?
+When will someone feel/see results? | Realistic timeframe if available — leave blank if not confirmed
+_______________________________________________
+Serving Size / Dosage | Take one (1) to two (2) capsules daily.
+_______________________________________________
+How to Prepare / Apply | Take orally. Preferably with a meal.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Best Time to Take / Use | Preferably with a meal.
+_______________________________________________
+With or Without Food? | With food
+_______________________________________________
+How Long to Use | As per needed and recommendations of health professionals
+_______________________________________________
+Storage Instructions | Store at room temperature not exceeding 30°C.
+Keep away from direct sunlight and moisture.
+Precautions / Who should NOT use this | If you are pregnant, nursing,
+taking any medications, planning any medical or surgical procedure, or
+have any medical condition, consult your doctor before use.
+Discontinue use and consult your doctor if any adverse reactions occur.
+This is not a medical drug and should not be used to treat the symptoms of any disease.
+SRP (Suggested Retail Price) | Php 590.00 pesos per bottle
+_______________________________________________
+Reseller / Distributor Price | Php 385.00 Pesos
+_______________________________________________
+Where to Buy | Exclusively available on this site, You may Add to Cart on this official Supremacy Store
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Availability | Nationwide
+_______________________________________________
+Q:  What is Supreme C with Advance Collagen?
+A:  Collagen is a dietary supplement containing Sodium Ascorbate, Calcium
+Ascorbate, Collagen Type 1 and 3, Rosehip and Zinc to support inner
+Health, antioxidant protection, and healthy skin, nails and hair.
+Q:  Anong lasa niya? / What does it taste like?
+A:  Capsule form ito kaya wala itong flavor.
+Q:  Ano ang ingredients niya?
+A:  Sodium Ascorbate, Calcium Ascorbate, Collagen Type 1 and 3, Rosehip at Zinc.
+Q:  Paano gamitin?
+A:  Take one (1) to two (2) capsules daily, preferably after meal.
+Q:  Anong benefits?
+A:  Supports inner health, antioxidant protection, healthy skin, nails and hair.
+Q:  Pwede ba ito sa mga bata? / Is it safe for kids?
+A:  As long as they can manage to take orally, Adult supervision is highly recommended.
+Q:  Magkano?
+A:  Php 590.00 pesos
+Q:  Saan mabibili?
+A:  available at exclusive lang ito sa mga official Supremacy members at Supremacy official channels
+Q:  Ilang araw bago makita ang result?
+A:  Depende sa Health Status ng iinom, Lifestyle, Age and Weight.
+Q:  Anong difference niya sa ibang brand na Vitamin C?
+A:  Ang Supreme C with Advanced Collagen ay gumagamit ng Sodium Ascorbate, isang buffered form ng Vitamin C na mas gentle sa tiyan kumpara sa ordinaryong Ascorbic Acid.  Dagdag pa rito, may Collagen Type 1 &amp; 3, Calcium Ascorbate, Rosehip, at Zinc, kaya hindi lang Vitamin C ang makukuha ninyo kundi isang well-balanced formulation na sumusuporta sa pang-araw-araw na wellness.
+Customer says: "Mahal naman"
+Sai responds:  The value comes from the combination of Vitamin  C, Collagen, Rosehip and Zinc in one dietary supplement. Mas mura pa din ang pag iingat sa kalusugan kesa gumastos kapag meron ng nararamdaman.
+Customer says: "May katulad naman sa tindahan"
+Sai responds: Tama po, maraming Vitamin C products sa market.  Ang pinagkaiba ng Supreme C with Advanced Collagen ay ang kombinasyon ng Sodium Ascorbate, Calcium Ascorbate, Collagen Type 1 &amp; 3, Rosehip, at Zinc sa isang formulation. Ang lakas nito ay nasa synergy ng mga ingredients, kung saan ang bawat isa ay may
+kanya-kanyang papel at nagtutulungan bilang bahagi ng isang balanced dietary supplement. Dagdag pa rito, ang Sodium Ascorbate ay isang buffered form ng Vitamin C na karaniwang mas gentle sa tiyan kaysa sa ordinaryong Ascorbic Acid.
+Customer says: "Hindi ko pa napapansin ang effect"
+Sai responds:  Results may vary. Consistent use and proper nutrition are important.
+Customer says: "Takot ako sa supplements / side effects"
+Sai responds:  Please follow the recommended dosage and consult your doctor if you have existing medical
+conditions.
+Customer says: "Magtatanong muna ako sa doktor ko"
+Sai responds:  We fully support consulting your doctor before taking any dietary supplement.
+Claims to NEVER make about this product | - Do not claim it cures diseases.
+- Do not claim it replaces prescribed medicines.
+- Do not claim guaranteed results.
+- Do not claim it is a medical drug.
+_______________________________________________
+_______________________________________________
+Common misconceptions to correct | - Dietary supplements are not medicines.
+- Results vary per individual.
+- This product should not be used to treat disease symptoms
+Competitor products to avoid mentioning
+Competitor products to avoid mentioning | As there are so many brands with similar products in the market, we categorically don't have to mention anything but stick to our product brand.
+_______________________________________________
+_______________________________________________
+English keywords | Supreme C Vitamin C with Collagen, Vitamin C, SI Collagen
+_______________________________________________
+_______________________________________________
+Filipino / Tagalog keywords | Bitamin C, Collagen, Vitamin C ng Supremacy Collagen na Vitamin C
+_______________________________________________
+_______________________________________________
+Taglish phrases | Supreme C capsule Vitamin C with collagen ng SI
+_______________________________________________
+_______________________________________________
+Common misspellings | Suprem C Supreme Collagen
+_______________________________________________
+_______________________________________________
+Related health concerns | Immune support Skin health Antioxidant support
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Customer:  Ano ang Supreme C with Advanced Collagen?
+Sai:  Ito ay dietary supplement na may Sodium Ascorbate, Calcium, Ascorbate, Collagen Type 1 and 3, Rosehip at Zinc upang suportahan ang inner health, antioxidant protection, at healthy skin, nails at hair.
+Customer:  Pwede ba ito habang may maintenance ako?
+Sai:  Kung umiinom kayo ng maintenance medication o may medical condition, kumonsulta muna sa inyong doktor bago gamitin ang product.
+Customer:  Bakit mas mahal kaysa ordinary Vitamin C?
+Sai:  Bukod sa Vitamin C, may Collagen Type 1 and 3, Calcium Ascorbate, Rosehip at Zinc din ito.
+Customer:  Bakit mas mahal kaysa ordinary Vitamin C?
+Sai:  Bukod sa Vitamin C, may Collagen Type 1 and 3, Calcium Ascorbate, Rosehip at Zinc din ito.
+Customer:  Gagaling ba ang arthritis ko dito?
+Sai:  Hindi ko po maaaring sabihin na gagaling ang arthritis dahil ang Supreme C with Advanced Collagen ay dietary supplement at hindi gamot. Gayunpaman, mayroon itong Vitamin C,  Collagen Type 1 &amp; 3, Rosehip, at Zinc na maaaring makatulong sa collagen formation, antioxidant protection, at pagsuporta sa normal na kalusugan ng bones at connective tissues bilang bahagi ng isang healthy lifestyle.  Para sa arthritis,  mas mainam pa rin pong kumonsulta sa inyong doktor.
+Product backstory / origin | Supreme C with Advanced Collagen was developed to provide a convenient daily wellness supplement that combines buffered Vitamin C (Sodium Ascorbate) with Collagen Type 1 & 3,
+Calcium Ascorbate, Rosehip, and Zinc in a single capsule. Instead of taking multiple supplements separately,
+users can obtain these complementary nutrients in one formulation. The product is designed to support everyday wellness,
+The product is designed to support everyday wellness, antioxidant protection, collagen formation, and healthy skin, hair, and nails as part of a balanced diet and healthy lifestyle. 
+
+users can obtain these complementary nutrients in one formulation.
+Best-selling points for resellers | • Uses Sodium Ascorbate, a buffered form of Vitamin C that is generally gentler on the stomach than ordinary Ascorbic Acid.
+• Combines Vitamin C, Collagen Type 1 & 3, Calcium Ascorbate, Rosehip, and Zinc in one convenient daily supplement.
+• Offers a synergistic formulation, where carefully selected ingredients complement one another as part of a balanced wellness routine.
+• Convenient capsule form with an easy once- or twice-daily 
+recommendation.
+• Suitable for individuals looking to support their daily nutritional intake, immunity, antioxidant protection
+Seasonal / occasion relevance | • Ideal as a daily wellness supplement throughout the year.
+• Popular during rainy and flu seasons when many people focus on supporting their immune health.
+• Suitable for adults looking to maintain their everyday wellness routine regardless of the season.
+• Can be included in wellness gift bundles, health promotions, and membership starter packs.
+Cross-sell opportunities | • Pair with Supreme Alkaline Coffee for customers looking to combine daily wellness supplementation with a functional coffee option.
+• Introduce other Supremacy wellness products based on the customer's health goals and lifestyle needs.
+• Recommend the Supremacy Business Opportunity to customers interested in purchasing regularly or earning through product sharing and distribution.
+_______________________________________________
+Notes for KB team | • Always describe Supreme C with Advanced Collagen as a dietary supplement, not as a medicine.
+• Do not make therapeutic or disease cure claims.
+• When customers ask about medical conditions, explain the product's nutritional support role and recommend consulting a healthcare professional for diagnosis or treatment.
+• Emphasize the synergy of the formulation rather than focusing on a single ingredient.
+• Keep responses conversational, educational, and compliant with FDA "No Approved Therapeutic Claims" guidelines.
