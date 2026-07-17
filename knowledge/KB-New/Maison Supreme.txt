@@ -592,3 +592,61 @@ Selling Point: Elegant and contemporary with a polished character. Designed for
 
 Kunafa
 Selling Point: Rich, distinctive, and memorable. A premium choice for special events and customers seeking a signature fragrance with strong personality.
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 14 — NATURAL LANGUAGE Q&A (for AI retrieval)
+────────────────────────────────────────────────────────────────────────────────
+
+Q: How many variants does Maison Supreme have?
+A: Maison Supreme has 10 variants in total — 5 for women and 5 for men.
+
+Q: What are the variants of Maison Supreme?
+A: Maison Supreme has 10 variants:
+Women's Collection: Libre, Santal, Fleura, Aura, Rouge
+Men's Collection: Azul, Veros, Savene, Eclor, Kunafa
+
+Q: Ilan variants ng Maison Supreme?
+A: May 10 variants ang Maison Supreme — 5 para sa babae at 5 para sa lalaki.
+Women's Collection: Libre, Santal, Fleura, Aura, Rouge
+Men's Collection: Azul, Veros, Savene, Eclor, Kunafa
+
+Q: Ano ano ang variants ng Maison Supreme?
+A: Ang Maison Supreme ay may dalawang koleksyon:
+Women's Collection: Libre, Santal, Fleura, Aura, Rouge
+Men's Collection: Azul, Veros, Savene, Eclor, Kunafa
+
+Q: What are the women's variants of Maison Supreme?
+A: The Maison Supreme Women's Collection has 5 variants: Libre, Santal, Fleura, Aura, and Rouge.
+- Libre — elegant, modern, understated luxury
+- Santal — warm, creamy, deep
+- Fleura — soft floral, feminine, daytime wear
+- Aura — fresh, radiant, versatile everyday
+- Rouge — bold, luxurious, evenings and formal occasions
+
+Q: What are the men's variants of Maison Supreme?
+A: The Maison Supreme Men's Collection has 5 variants: Azul, Veros, Savene, Eclor, and Kunafa.
+- Azul — fresh and confident, everyday wear
+- Veros — clean, refined, office to evening
+- Savene — warm, masculine, business and formal
+- Eclor — elegant, contemporary, understated luxury
+- Kunafa — rich, distinctive, special events
+
+Q: Ano ang pangalan ng Maison Supreme scents?
+A: Ang Maison Supreme ay may 10 scents:
+Para sa babae: Libre, Santal, Fleura, Aura, Rouge
+Para sa lalaki: Azul, Veros, Savene, Eclor, Kunafa
+
+Q: What scents are available for Maison Supreme?
+A: Maison Supreme has 10 scents available:
+Women's: Libre, Santal, Fleura, Aura, Rouge
+Men's: Azul, Veros, Savene, Eclor, Kunafa
+
+Q: Which Maison Supreme variant is best for everyday use?
+A: For everyday use, good choices are:
+Women: Aura (fresh and versatile) or Libre (elegant and modern)
+Men: Azul (fresh and confident) or Veros (clean and refined, works office to evening)
+
+Q: Which Maison Supreme variant is best for formal events?
+A: For formal events and special occasions:
+Women: Rouge (bold, luxurious, memorable) or Santal (warm, deep, refined)
+Men: Savene (warm, masculine, formal) or Kunafa (rich, distinctive, strong personality)
