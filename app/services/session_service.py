@@ -143,6 +143,10 @@ def build_prompt(
     if system_prompt_text:
         system_parts.append(system_prompt_text)
 
+    # Inject current date so the LLM can calculate durations (e.g. company age) correctly
+    today_str = datetime.now(timezone.utc).strftime("%B %d, %Y")
+    system_parts.append(f"Today's date is {today_str}.")
+
     system_content = " ".join(system_parts) if system_parts else f"You are {name or 'Assistant'}."
     prompt.append(Message(role="system", content=system_content))
 
